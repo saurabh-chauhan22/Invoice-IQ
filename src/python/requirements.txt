@@ -1,3 +1,4 @@
 cookiecutter
 django
 daphne
+hypercorn
