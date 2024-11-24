@@ -1,0 +1,250 @@
+[
+    {
+        "id": 2046,
+        "text": "SuperStore INVOICE\n\n# 48914\nDate: Sep 18 2012\nBill To: Ship To: ; .\n. . Ship Mode: First Class\nChristina Anderson Severodvinsk,\nArkhangel'sk, Russia Balance Due: $374.13\nItem Quantity Rate Amount\nBreville Microwave, Silver 1 $302.46 $302.46\nAppliances, Office Supplies, OFF-AP-3572\nSubtotal: $302.46\nShipping: $71.67\nTotal: $374.13\n\nNotes:\nThanks for your business!\n\nTerms:\nOrder ID : RS-2012-CA2265108-41170\n",
+        "entities": [
+            {
+                "id": 237,
+                "label": "INVOICE_NO",
+                "start_offset": 20,
+                "end_offset": 27
+            },
+            {
+                "id": 238,
+                "label": "DATE_OF_ISSUE",
+                "start_offset": 34,
+                "end_offset": 45
+            },
+            {
+                "id": 239,
+                "label": "due_price",
+                "start_offset": 162,
+                "end_offset": 169
+            },
+            {
+                "id": 240,
+                "label": "GROSS_PRICE",
+                "start_offset": 293,
+                "end_offset": 299
+            },
+            {
+                "id": 241,
+                "label": "NET_PRICE",
+                "start_offset": 325,
+                "end_offset": 331
+            },
+            {
+                "id": 243,
+                "label": "order_id",
+                "start_offset": 385,
+                "end_offset": 408
+            },
+            {
+                "id": 252,
+                "label": "ITEM",
+                "start_offset": 196,
+                "end_offset": 224
+            },
+            {
+                "id": 253,
+                "label": "ITEM",
+                "start_offset": 241,
+                "end_offset": 281
+            }
+        ],
+        "relations": [],
+        "Comments": []
+    },
+    {
+        "id": 1993,
+        "text": "Invoice no: 95608340\n\nDate of issue:\n\nSeller:\n\nPhillips, Kramer and Morales\n6007 King Way\nNorth Timothy, KY 78075\n\nTax Id: 977-79-2836\n\nIBAN: GB83VKBV70105669757006\n\nITEMS\n\nNo. Description\n\n1. 6'x3' Oval Marble White Top\nDining Table Marquetry\nCollectible Inlay Decor E349\n\n2. Multi Color Elephant Design\nWhite Dinning Table Top Marble\nHall Table 36 Inches\n\n3. 6'x3' White Marble Dining Table\nTop Multi Inlay Floral Elephant\nArt Decor H4952\n\n4. 12\"x18\" White Marble Coffee\nTop Table Lapis Inlay Pietradura\nFloral Art Decor\n\n5. 18\" White Marble Corner Coffee\n\nTable Top Lapis Floral Inlay\nKitchen Decors W282\n\nSUMMARY\n\nTotal\n\nQty\n\n3,00\n\n4,00\n\n3,00\n\n4,00\n\n2,00\n\nVAT [%]\n\n10%\n\n09/23/2016\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\n\nBurnett, Mills and Martinez\n\n012 Keith Plains\n\nGonzalezton, OK 20909\n\nTax Id: 934-76-0224\n\nNet price\n\n7 193,76\n\n1751,25\n\n6 408,49\n\n396,55\n\n398,64\n\nNet worth\n50 195,23\n\n$ 50 195,23\n\nNet worth VAT [%]\n21 581,28 10%\n7 005,00 10%\n19 225,47 10%\n1 586,20 10%\n797,28 10%\n\nVAT\n\n5 019,52\n\n$5 019,52\n\nGross\nworth\n\n23 739,41\n\n7 705,50\n\n21 148,02\n\n1 744,82\n\n877,01\n\nGross worth\n55 214,75\n\n$ 55 214,75\n",
+        "entities": [
+            {
+                "id": 199,
+                "label": "ITEM",
+                "start_offset": 12,
+                "end_offset": 20
+            },
+            {
+                "id": 200,
+                "label": "ITEM",
+                "start_offset": 674,
+                "end_offset": 684
+            },
+            {
+                "id": 201,
+                "label": "VAT",
+                "start_offset": 669,
+                "end_offset": 672
+            },
+            {
+                "id": 203,
+                "label": "NET_PRICE",
+                "start_offset": 831,
+                "end_offset": 839
+            },
+            {
+                "id": 204,
+                "label": "GROSS_PRICE",
+                "start_offset": 1108,
+                "end_offset": 1117
+            },
+            {
+                "id": 206,
+                "label": "ITEM",
+                "start_offset": 193,
+                "end_offset": 220
+            },
+            {
+                "id": 207,
+                "label": "ITEM",
+                "start_offset": 277,
+                "end_offset": 304
+            },
+            {
+                "id": 208,
+                "label": "ITEM",
+                "start_offset": 361,
+                "end_offset": 392
+            },
+            {
+                "id": 209,
+                "label": "ITEM",
+                "start_offset": 445,
+                "end_offset": 472
+            },
+            {
+                "id": 210,
+                "label": "ITEM",
+                "start_offset": 527,
+                "end_offset": 557
+            }
+        ],
+        "relations": [],
+        "Comments": []
+    },
+    {
+        "id": 2049,
+        "text": "SuperStore INVOICE\n\n#15521\nDate: Mar 29 2012\nBill To: Ship To: ;\n. . . Ship Mode: Standard Class\nChris Selesnick Troisdorf, North\nRhine-Westphalia, Balance Due: $3,377.10\nGermany\nItem Quantity Rate Amount\nNovimex Swivel Stool, Black 5 $729.14 $3,645.68\nChairs, Furniture, FUR-CH-5412\nSubtotal: $3,645.68\nDiscount (10%): $364.57\nShipping: $95.99\nTotal: $3,377.10\n\nNotes:\nThanks for your business!\n\nTerms:\nOrder ID : ES-2012-CS1225048-40997\n",
+        "entities": [
+            {
+                "id": 262,
+                "label": "INVOICE_NO",
+                "start_offset": 21,
+                "end_offset": 26
+            },
+            {
+                "id": 263,
+                "label": "DATE_OF_ISSUE",
+                "start_offset": 33,
+                "end_offset": 44
+            },
+            {
+                "id": 264,
+                "label": "GROSS_PRICE",
+                "start_offset": 294,
+                "end_offset": 303
+            },
+            {
+                "id": 266,
+                "label": "NET_PRICE",
+                "start_offset": 352,
+                "end_offset": 361
+            },
+            {
+                "id": 267,
+                "label": "order_id",
+                "start_offset": 415,
+                "end_offset": 438
+            },
+            {
+                "id": 268,
+                "label": "due_price",
+                "start_offset": 161,
+                "end_offset": 170
+            },
+            {
+                "id": 285,
+                "label": "ITEM",
+                "start_offset": 205,
+                "end_offset": 234
+            },
+            {
+                "id": 286,
+                "label": "ITEM",
+                "start_offset": 253,
+                "end_offset": 283
+            }
+        ],
+        "relations": [],
+        "Comments": []
+    },
+    {
+        "id": 2010,
+        "text": "Invoice no: 10893877\n\nDate of issue: 06/26/2018\n\nSeller:\n\nRuiz, Robinson and Kim\n722 Mendoza Ville\nTimothyville, KS 15580\n\nTax Id: 912-74-3989\nIBAN: GB63B0Q193708234783824\n\nITEMS\nNo. Description Qty UM\n1. Guess White Halter Dress Size 3,00 each\n10\n2. Christmas Dress Grace Karin 4,00 each\n\nSleeveless Christmas dress Red\nBlack size Large\n\n3. miley cyrus Bubble Dress 1,00 each\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\nClient:\n\nRichardson PLC\nPSC 3682, Box 8583\nAPO AA 52174\n\nTax Id: 976-91-2971\n\nNet price Net worth\n\n13,00\n\n9,99\n\n16,00\n\nNet worth\n\n94,96\n\n$ 94,96\n\n39,00\n\n39,96\n\n16,00\n\nVAT\n\n9,50\n\n$ 9,50\n\nVAT [%]\n\n10%\n\n10%\n\n10%\n\nGross\nworth\n\n42,90\n\n43,96\n\n17,60\n\nGross worth\n\n104,46\n\n$ 104,46\n",
+        "entities": [
+            {
+                "id": 2,
+                "label": "INVOICE_NO",
+                "start_offset": 12,
+                "end_offset": 20
+            },
+            {
+                "id": 3,
+                "label": "DATE_OF_ISSUE",
+                "start_offset": 37,
+                "end_offset": 47
+            },
+            {
+                "id": 12,
+                "label": "ITEM",
+                "start_offset": 202,
+                "end_offset": 243
+            },
+            {
+                "id": 13,
+                "label": "ITEM",
+                "start_offset": 251,
+                "end_offset": 287
+            },
+            {
+                "id": 14,
+                "label": "ITEM",
+                "start_offset": 290,
+                "end_offset": 320
+            },
+            {
+                "id": 15,
+                "label": "ITEM",
+                "start_offset": 321,
+                "end_offset": 337
+            },
+            {
+                "id": 16,
+                "label": "ITEM",
+                "start_offset": 342,
+                "end_offset": 376
+            },
+            {
+                "id": 22,
+                "label": "NET_PRICE",
+                "start_offset": 506,
+                "end_offset": 511
+            },
+            {
+                "id": 24,
+                "label": "VAT",
+                "start_offset": 395,
+                "end_offset": 398
+            },
+            {
+                "id": 25,
+                "label": "GROSS_PRICE",
+                "start_offset": 672,
+                "end_offset": 680
+            }
+        ],
+        "relations": [],
+        "Comments": []
+    }
+]
