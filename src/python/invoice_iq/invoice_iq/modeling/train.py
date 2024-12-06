@@ -1,35 +1,39 @@
 import logging
 import random
 from pathlib import Path
+import typer
+from loguru import logger
 
 from invoice_iq.config import NOTEBOOKS_DIR,REFERENCES_DIR
 from invoice_iq.jsonl_to_json import jsonl_to_json
 from invoice_iq.utilities import convert_data_to_spacy_format, cleaned_data
+
 import spacy
-from spacy import load, blank
+from spacy import load
 from spacy.tokens import DocBin
 from spacy.cli.train import train as spacy_train
+from spacy import util
 
-logger = logging.getLogger(__name__)
+app = typer.Typer()
 
+@app.command()
 class SpacyModelTrain:
     '''
     Model creation class for custom named entity recognition (NER) model
     '''
-    def __init__(self) -> None:
+    def __init__(self, gpu=False) -> None:
         self.nlp = None
         self.docbin_train = DocBin()
         self.docbin_test = DocBin()
     
-    def load_model(self, model='en_core_web_lg'):
+    def load_model(self, model='en_core_web_trf'):
         """
         Load a SpaCy model with error handling
-        
-        :param model: SpaCy model name, defaults to transformer model
-        :return: Loaded SpaCy model
         """
+        logger.info(f"Using transformer model : {model}")
         try:
-            self.nlp = load(model) 
+            self.nlp = load(model)
+            logger.success("Spacy model loaded")
             return self.nlp
         except Exception as e:
             logger.error(f"Failed to load model {model}: {e}")
@@ -38,14 +42,10 @@ class SpacyModelTrain:
     def create_docbin(self, input_data, docbin, data_type):
         """
         Create SpaCy DocBin from annotated data
-        
-        :param input_data: Annotated text data
-        :param docbin: DocBin to populate
-        :param data_type: 'train' or 'test'
         """
         for text, annot in input_data:
             doc = self.nlp.make_doc(text)
-            entities = []
+            entities = list()
             
             for annotation_dict in annot.get("entities", []):
                 start = int(annotation_dict.get('start_offset', 0))
@@ -68,9 +68,6 @@ class SpacyModelTrain:
     def filter_overlapping_spans(self, spans):
         """
         Filter overlapping spans, keeping the longer span
-        
-        :param spans: List of SpaCy Span objects
-        :return: List of non-overlapping Span objects
         """
         sorted_spans = sorted(spans, key=lambda span: (span.start, -span.end))
         non_overlapping = []
@@ -134,10 +131,11 @@ class SpacyModelTrain:
             raise
         
 def main():
-    spacy_train = SpacyModelTrain()
+    spacy_train = SpacyModelTrain(gpu=False)
+    # spacy.prefer_gpu()
     try:
-        spacy_train.load_model()
-        labelled_data = f"{NOTEBOOKS_DIR}\\labeled_data.jsonl"
+        spacy_train.load_model("en_core_web_trf")
+        labelled_data = f"{NOTEBOOKS_DIR}\\labelled_data.jsonl"
         spacy_train.create_spacy_binaries(labelled_data)
         spacy_train.train_model('model_output')
     except Exception as ex:
