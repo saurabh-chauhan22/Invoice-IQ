@@ -1,1 +1,1 @@
-from invoice_iq import config  # noqa: F401
+from invoice_iq import config 
