@@ -9,7 +9,7 @@ from tkinter.ttk import Treeview
 
 from PyPDF2 import PdfReader
 
-from invoice_iq.config import TEMP_FILE_PATH, MODEL_TWO_PATH
+from invoice_iq.config import TEMP_FILE_PATH, MODEL_TWO_PATH, MODEL_ONE_PATH
 from invoice_iq.modeling import InvoiceDetector
 
 app = typer.Typer()
@@ -18,7 +18,7 @@ class PDFUploaderApp:
     def __init__(self, root: tk.Tk):
         self.root = root
         self.root.title("Invoice IQ")
-        self.root.geometry("400x300")
+        self.root.geometry("600x400")
 
         self._pdf_content = ""
 
@@ -84,7 +84,7 @@ class PDFUploaderApp:
         """
         Create a table output of the detected invoice parameters.
         """
-        entities = ["INVOICE_NO","DATE_OF_ISSUE","SELLER","BUYER","Net_worth","Gross_worth","order_id"]
+        entities = ["INVOICE_NO","DATE_OF_ISSUE","SELLER","BUYER","Net_worth","Gross_worth","order_id","IBAN"]
         table_window = tk.Toplevel(self.root)
         table_window.title("Recognized Invoice")
         table_window.geometry("500x300")
@@ -112,8 +112,8 @@ class PDFUploaderApp:
         """
         Get the model output of the invoice file parameters.
         """
-        logger.info(f"Model path : {MODEL_TWO_PATH}")
-        invoice_inst = InvoiceDetector(MODEL_TWO_PATH)
+        logger.info(f"Model path : {MODEL_ONE_PATH}")
+        invoice_inst = InvoiceDetector(MODEL_ONE_PATH)
         ai_output = invoice_inst.predict()
 
         # Ensure ai_output is a list of tuples or lists to display in the table

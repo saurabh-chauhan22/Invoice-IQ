@@ -16,6 +16,7 @@ MODELS_DIR = PROJ_ROOT / "models"
 MODEL_ONE_PATH = MODELS_DIR / "model1" / "model-best"
 MODEL_TWO_PATH = MODELS_DIR / "model2" / "model-best"
 
+LABELLED_DATA = PROJ_ROOT / "notebooks"
 REPORTS_DIR = PROJ_ROOT / "reports"
 FIGURES_DIR = REPORTS_DIR / "figures"
 NOTEBOOKS_DIR = PROJ_ROOT / "notebooks"
