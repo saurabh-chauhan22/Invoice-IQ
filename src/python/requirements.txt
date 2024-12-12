@@ -1,4 +1,3 @@
 cookiecutter
-django
-daphne
-hypercorn
+PyPDF2
+spacy
