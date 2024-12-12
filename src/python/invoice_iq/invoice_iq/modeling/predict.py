@@ -2,29 +2,43 @@ from pathlib import Path
 
 import typer
 from loguru import logger
-from tqdm import tqdm
 
-from invoice_iq.config import MODELS_DIR, PROCESSED_DATA_DIR
+from spacy import load
+
+from invoice_iq.config import TEMP_FILE_PATH
 
 app = typer.Typer()
 
-
 @app.command()
-def main(
-    # ---- REPLACE DEFAULT PATHS AS APPROPRIATE ----
-    features_path: Path = PROCESSED_DATA_DIR / "test_features.csv",
-    model_path: Path = MODELS_DIR / "model.pkl",
-    predictions_path: Path = PROCESSED_DATA_DIR / "test_predictions.csv",
-    # -----------------------------------------
-):
-    # ---- REPLACE THIS WITH YOUR OWN CODE ----
-    logger.info("Performing inference for model...")
-    for i in tqdm(range(10), total=10):
-        if i == 5:
-            logger.info("Something happened for iteration 5.")
-    logger.success("Inference complete.")
-    # -----------------------------------------
+class InvoiceDetector:
+    '''
+    Detection of invoice data parameters
+    '''
+    def __init__(self, model_path):
+        '''
+        Initilize the constructor with the valid trained model path 
+        '''
+        assert Path(model_path).exists() is not None
+        self.nlp = load(model_path)
+        logger.info("Model loaded")
 
-
-if __name__ == "__main__":
-    app()
+    def _text_analysis(self):
+        '''
+        Extracted text from the pdf and store it into 
+        nlp doc object
+        '''
+        pdf_text = ""
+        with open(TEMP_FILE_PATH,'r') as f:
+            pdf_text = f.read()
+        doc=self.nlp(pdf_text)
+        return doc   
+    
+    def predict(self):
+        '''
+        Detect the variables from the invoice pdf from the model
+        '''
+        doc = self._text_analysis()
+        for ent in doc.ents:
+            logger.info(f"Label : {ent.label_}, text: {ent.text}")
+            yield ent 
+            
