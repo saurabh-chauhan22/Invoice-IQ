@@ -1,6 +1,5 @@
 # Invoice-IQ
-Master's Project for Machine Learning course
-
+Invoice IQ project for invoice data recognition using ML
 
 # Steps to run the project
 
@@ -41,3 +40,5 @@ python -m spacy download en_core_web_trf
 Go inside directory : src\python\invoice_iq\invoice_iq
 
 run : python invoice_app.py
+
+To upload a testing pdf go to docs folder. Inside docs folder you will get testing pdfs 
