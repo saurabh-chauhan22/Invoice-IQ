@@ -1,0 +1,83 @@
+Invoice no: 89946798
+
+Date of issue:
+
+Seller:
+
+Martinez-Hughes
+7144 Tina Divide
+New Natalieville, IN 98692
+
+Tax Id: 964-82-2523
+IBAN: GB26DQZF45217464128806
+
+ITEMS
+No. Description Qty
+1. Nintendo Switch Lite Gray 2,00
+
+CONSOLE ONLY - No
+Accessories or Charger [B5-2]
+
+2. Nintendo Switch 32GB Neon 3,00
+Red/Neon Blue Console
+
+3. B351 Nintendo new 3DS console 1,00
+White Japan w/stylus pen
+
+4. Sony PlayStation 3 Slim 120GB 1,00
+Black Console
+
+3. Microsoft Xbox One S 1TB 5,00
+Console - “All Digital” Edition
+(Games NOT Included)
+
+6. NEC PC Engine INTERFACE UNIT 5,00
+
+IFU-30 CD ROM Console
+PI-TGOO1 Tested Japan
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+07/04/2019
+
+UM
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+Client:
+
+Santos PLC
+Unit 0191 Box 9692
+DPO AE 38538
+
+Tax Id: 998-85-0700
+
+Net price Net worth VAT [%] Gross
+worth
+
+135,00 270,00 10% 297,00
+300,00 900,00 10% 990,00
+79,99 79,99 10% 87,99
+99,99 99,99 10% 109,99
+199,99 999,95 10% 1 099,95
+159,99 799,95 10% 879,95
+Net worth VAT Gross worth
+
+3 149,88 314,99 3 464,87
+
+$3 149,88 $ 314,99 $ 3 464,87

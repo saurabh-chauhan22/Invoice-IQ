@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 30584
+Date: Jan 31 2012
+Bill To: Ship To:
+me pe Ship Mode: Standard Class
+Troy Staebel Paraparaumu,
+Wellington, New Balance Due: $10,413.48
+Zealand
+Item Quantity Rate Amount
+Motorola Smart Phone, Cordless 4 $2,571.12 $10,284.48
+Phones, Technology, TEC-PH-5267
+Subtotal: $10,284.48
+Shipping: $129.00
+Total: $10,413.48
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-TS2161092-40939

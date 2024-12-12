@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 26495
+Date: Aug 16 2012
+Bill To: Ship To: Ship Mod s D
+: ame Da
+Sylvia Foulston Newcastle, New p Moce y
+South Wales, Balance Due: $922.97
+Australia
+Item Quantity Rate Amount
+GlobeWeis Mailers, with clear poly window 5 $189.41 $947.03
+Envelopes, Office Supplies, OFF-EN-4446
+Subtotal: $947.03
+Discount (10%): $94.70
+Shipping: $70.64
+Total: $922.97
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-SF209657-41 137

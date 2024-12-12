@@ -1,0 +1,98 @@
+Invoice no: 77513425
+
+Date of issue:
+
+Seller:
+
+Wang and Sons
+88329 Elizabeth Spring Suite 079
+West Michael, CA 03921
+
+Tax Id: 929-82-9439
+IBAN: GB69CYRJ12393499976192
+
+ITEMS
+No. Description Qty
+1. Kate Spade NY Sleeveless Ponte 3,00
+Fit & Flare Solid Black Dress
+Size 6
+2. Speechless Green Brown White 3,00
+Psychedelic Sleeveless Dress.
+Size Large
+3. Zara Yellow Shift Dress XS 5,00
+4. Jones Wear Dress Women White 1,00
+
+Pink Floral Sleeveless Formal
+Tea Dress Size 12
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+02/12/2021
+
+UM
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+Client:
+
+Rogers, Fitzpatrick and Salazar
+
+504 Ashley Pike
+
+Jameshaven, ND 78333
+
+Tax Id: 916-87-1502
+
+Net price
+
+49,99
+
+7,00
+
+24,75
+
+20,00
+
+Net worth
+314,72
+
+$ 314,72
+
+Net worth VAT [%]
+149,97 10%
+21,00 10%
+123,75 10%
+20,00 10%
+
+VAT
+
+31,47
+
+$ 31,47
+
+Gross
+worth
+
+164,97
+
+23,10
+
+136,13
+
+22,00
+
+Gross worth
+346,19
+
+$ 346,19

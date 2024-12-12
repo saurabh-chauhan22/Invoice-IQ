@@ -1,0 +1,96 @@
+Invoice no: 87456388
+
+Date of issue:
+
+Seller:
+
+Norris-Duran
+585 Erik Locks
+Sonyafort, NV 79566
+
+Tax Id: 927-96-7732
+
+IBAN: GB65LOLY47932229833502
+
+ITEMS
+
+No.
+
+Description
+
+Steve Madden Bserge Boys
+Black Dress Leather Loafer
+Shoes US 4 NIB
+
+Lotto Youth Boys Fuerzapura
+L500 Jr Soccer Cleats Size 2.5
+White Blue M6147 2.5Y
+
+3. timberland boots 5.5y
+4. PLAE SAM 2.0 Shoes Sandals
+Breathable Summer Strap Navy
+Blue Size 12 Kid
+SUMMARY
+
+Total
+
+Qty
+
+4,00
+
+2,00
+
+2,00
+
+1,00
+
+VAT [%]
+
+10%
+
+02/10/2012
+
+UM
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+Client:
+
+Marshall and Sons
+6576 Frazier Land Apt. 370
+South Andrew, CO 19391
+
+Tax Id: 964-98-8357
+
+Net price Net worth VAT [%]
+39,95 159,80 10%
+19,99 39,98 10%
+22,00 44,00 10%
+15,00 15,00 10%
+
+Net worth VAT
+258,78 25,88
+$ 258,78 $ 25,88
+
+Gross
+worth
+
+175,78
+
+43,98
+
+48,40
+
+16,50
+
+Gross worth
+
+284,66
+
+$ 284,66

@@ -1,0 +1,32 @@
+Invoice no: 66486540
+
+Date of issue: 05/22/2021
+
+Seller: Client:
+
+Williams, Stephens and Hopkins
+169 Martin Viaduct Apt. 816
+Danielshire, CO 50480
+
+Mitchell, Kelly and Hayes
+62572 Larsen Manor Apt. 253
+Lake William, DE 85317
+
+Tax Id: 948-95-1989
+
+Tax Id: 941-88-9816
+IBAN: GB320KLT94626620391421
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+
+1. Nintendo Wii 4,00 each 89,99 359,96 10% 395,96
+console+controller+Sensor
++Cords Gamecube Compatible
+White RVL-001
+
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 359,96 36,00 395,96
+Total $ 359,96 $ 36,00 $ 395,96

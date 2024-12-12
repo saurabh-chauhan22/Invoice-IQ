@@ -1,0 +1,26 @@
+Invoice no: 45072803
+
+Date of issue: 08/05/2017
+Seller: Client:
+Caldwell, Ochoa and Williams Morrow Group
+9181 Salazar Trail Apt. 551 70965 Martha Summit Apt. 337
+Stewartstad, PA 19987 Michaeltown, SD 25173
+Tax Id: 956-91-5905 Tax Id: 925-70-9586
+IBAN: GB62DIUF98412628425096
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+dl AMD Dual Core 3.9Ghz 4GB 5,00 each 249,99 1 249,95 10% 1 374,95
+DDR3 500GB WiFi Windows 10
+office Desktop PC Computer
+2. Dell OptiPlex 7060 SFF 3,00 each 202,50 607,50 10% 668,25
+Computer, 8th Gen Core i5, 8GB
+DDR4, New 240GB SSD, DVD
+3. Dell Core 2 Duo Desktop 4,00 each 168,00 672,00 10% 739,20
+Computer | Windows XP Pro |
+4GB | 500GB
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 2 529,45 252,94 2 782,39
+
+Total $2 529,45 $ 252,94 $ 2 782,39

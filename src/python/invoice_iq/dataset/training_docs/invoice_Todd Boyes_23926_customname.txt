@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 23926
+Date: Jun 06 2012
+Bill To: Ship To:
+me pe Ship Mode: Second Class
+Todd Boyes Toowoomba,
+Queensland, Balance Due: $6,878.18
+Australia
+Item Quantity Rate Amount
+Samsung Audio Dock, Cordless 7 $1,068.98 $7,482.89
+Phones, Technology, TEC-PH-5812
+Subtotal: $7,482.89
+Discount (10%): $748.29
+Shipping: $143.58
+Total: $6,878.18
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-TB213557-41066

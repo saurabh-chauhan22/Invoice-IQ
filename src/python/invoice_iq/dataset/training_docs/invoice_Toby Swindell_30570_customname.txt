@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 30570
+Date: Nov 06 2012
+Bill To: Ship To: ; .
+. . . Ship Mode: First Class
+Toby Swindell Porirua, Wellington,
+New Zealand Balance Due: $8,183.09
+Item Quantity Rate Amount
+Novimex Executive Leather Armchair, Adjustable 4 $1,822.08 $7,288.32
+Chairs, Furniture, FUR-CH-5378
+Subtotal: $7,288.32
+Shipping: $894.77
+Total: $8,183.09
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-TS2134092-41219

@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 28948
+Date: Aug 17 2012
+
+Bill To: Ship To: Ship Mode: Standard Cl
+Tamara Willingham Chengdu, Sichuan, Piece: ancareass
+China Balance Due: $2,870.97
+Item Quantity Rate Amount
+Hoover Microwave, Black 3 $924.21 $2,772.63
+
+Appliances, Office Supplies, OFF-AP-4730
+
+Subtotal: $2,772.63
+Shipping: $98.34
+Total: $2,870.97
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-TW2102527-41138

@@ -1,0 +1,43 @@
+Invoice no: 37984067
+
+Date of issue:
+
+Seller:
+
+Fitzgerald Group
+716 Simmons Extension Apt. 181
+Andrewberg, NH 20771
+
+Tax Id: 909-78-7138
+IBAN: GB11ZMKK30115854451979
+
+ITEMS
+No. Description Qty
+1. 3 Boys sneakers light up size 11 2,00
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+09/27/2020
+
+Client:
+
+Allison Group
+4426 Johnson Port
+North Melanie, LA 77500
+
+Tax Id: 958-74-0701
+
+UM Net price Net worth VAT [%] Gross
+worth
+
+each 3,00 6,00 10% 6,60
+Net worth VAT Gross worth
+
+6,00 0,60 6,60
+
+$ 6,00 $ 0,60 $ 6,60

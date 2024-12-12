@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+#5101
+Date: Jun 19 2012
+Bill To: Ship To: ;
+. , . Ship Mode: Standard Class
+Vivek Grady Leon, Guanajuato,
+Mexico Balance Due: $9,164.00
+Item Quantity Rate Amount
+Hewlett Wireless Fax, Digital 6 $1,516.28 $9,097.69
+Copiers, Technology, TEC-CO-4591
+Subtotal: $9,097.69
+Discount (0.2%): $18.20
+Shipping: $84.51
+Total: $9,164.00
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-VG2180582-41079

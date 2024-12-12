@@ -1,0 +1,25 @@
+Invoice no: 56262668
+
+Date of issue: 10/07/2017
+Seller: Client:
+Juarez LLC Pruitt-Sandoval
+57730 Courtney Trail Suite 173 814 Young Street
+Johnsonhaven, IL 27508 West Dianeburgh, ID 64401
+Tax Id: 952-70-9278 Tax Id: 974-83-0708
+IBAN: GB96GCFK74994335965650
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. Rebecca to the Rescue 3,00 each 4,89 14,67 10% 16,14
+(American Girl (Quality))
+2. The Fifty Greatest Conspiracies 2,00 each 4,49 8,98 10% 9,88
+of All Time History s Biggest
+Myster
+3. Rage By Bob Woodward - 5,00 each 22,93 114,65 10% 126,12
+Donald Trump NEW
+HARDCOVER Sept 2020
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 138,30 13,83 152,13
+
+Total $ 138,30 $ 13,83 $ 152,13

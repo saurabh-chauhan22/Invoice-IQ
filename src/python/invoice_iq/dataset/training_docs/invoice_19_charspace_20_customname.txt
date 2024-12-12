@@ -1,0 +1,46 @@
+Invoice no: 54045145
+
+Date of issue:
+
+Seller:
+
+Reyes, Wilkins and Allen
+082 Green Wall Suite 004
+South Travisfort, LA 94244
+
+Tax Id: 914-81-3426
+IBAN: GB94RFQH74536666804955
+
+ITEMS
+No. Description Qty
+1. Yeti Rambler 30 oz and 100z 2,00
+
+wine tumbler Sea Foam
+
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+01/27/2013
+
+Client:
+
+Carlson-Murphy
+954 Gray Crossroad
+Haleland, VT 90124
+
+Tax Id: 910-81-9024
+
+UM Net price Net worth VAT [%] Gross
+worth
+
+each 59,99 119,98 10% 131,98
+Net worth VAT Gross worth
+
+119,98 12,00 131,98
+
+$ 119,98 $ 12,00 $ 131,98

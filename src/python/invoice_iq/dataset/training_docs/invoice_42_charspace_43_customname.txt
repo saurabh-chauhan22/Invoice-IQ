@@ -1,0 +1,54 @@
+Invoice no: 83072610
+
+Date of issue:
+
+Seller:
+
+Scott-Little
+86919 Michelle Isle Suite 900
+Maciasmouth, VA 32776
+
+Tax Id: 946-99-0859
+IBAN: GB46JPRO23432953968608
+
+ITEMS
+No. Description Qty
+1. Youth Kids Boys New Balance 1,00
+Arishi v2 Grey/Red Athletic
+Running Shoes Size 6.5 M
+SUMMARY
+VAT [%]
+
+10%
+
+Total
+
+UM
+
+each
+
+05/27/2021
+
+Client:
+
+Mcguire PLC
+81962 Roger Port Suite 937
+New Rileymouth, VT 82138
+
+Tax Id: 971-81-1102
+
+Net price Net worth VAT [%]
+26,99 26,99 10%
+Net worth VAT
+26,99 2,70
+$ 26,99 $ 2,70
+
+Gross
+worth
+
+29,69
+
+Gross worth
+29,69
+
+$ 29,69

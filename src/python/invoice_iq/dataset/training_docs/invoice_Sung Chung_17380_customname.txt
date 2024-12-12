@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 17380
+Date: Jun 10 2012
+Bill To: Ship To: ; .
+| | Ship Mode: First Class
+Sung Chung Vienna, Vienna,
+Austria Balance Due: $10,652.75
+Item Quantity Rate Amount
+Ikea Classic Bookcase, Metal 5 $2,056.05 $10,280.25
+Bookcases, Furniture, FUR-BO-4848
+Subtotal: $10,280.25
+Shipping: $372.50
+Total: $10,652.75
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-SC208458-41070

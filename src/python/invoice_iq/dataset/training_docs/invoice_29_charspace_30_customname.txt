@@ -1,0 +1,50 @@
+Invoice no: 76558694
+
+Date of issue:
+
+Seller:
+
+Mcbride-Salas
+2989 Heather Glen
+Stephaniefort, SC 94494
+
+Tax Id: 900-99-5657
+
+07/04/2011
+
+Client:
+Cummings-Ruiz
+
+4552 Johnson Overpass
+Jamiebury, NY 41117
+
+Tax Id: 939-79-3224
+
+IBAN: GB740NSC24312481516270
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. Floral two seater fabric sofa 1,00 each 199,00 199,00 10% 218,90
+2. 45"x45" Marble Black Coffee 3,00 each 7 388,00 22 164,00 10% 24 380,40
+Top Table Mosai Inlaid Italian
+Art Halloween Gift
+3. 18"x18" Marble White Table Top 2,00 each 1 188,45 2 376,90 10% 2 614,59
+Lapis Inlay Pietradura Floral
+Home Décor Art Gift
+4. 36" Marble White Top Counter 2,00 each 3 200,00 6 400,00 10% 7 040,00
+Table Lapis Inlaid Pietradura Art
+Christmas Gifts
+3. 12" White Marble Coffee Table 1,00 each 295,73 295,73 10% 325,30
+Top Malachite Precious Inlay
+Decor Furniture W534
+6. 12" Marble Side Coffee Table 1,00 each 250,04 250,04 10% 275,04
+Top Malachite Mosaic Floral
+Inlay Garden Decor W168
+7. 48 Inch Marble Restaurant Table 1,00 each 2 692,00 2 692,00 10% 2 961,20
+Inlay with Lapis Lazuli Stone
+Dinning Table Top
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 34 377,67 3 437,77 37 815,44
+Total $ 34 377,67 $ 3 437,77 $ 37 815,44

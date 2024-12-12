@@ -1,0 +1,35 @@
+Invoice no: 65573150
+
+Date of issue: 07/11/2015
+
+Seller: Client:
+
+Allen LLC
+66266 Marcus Walk Apt. 690
+Port Christina, IL 44529
+
+Hughes-Ramsey
+98150 Dickson Ferry
+Bellport, ID 06691
+
+Tax Id: 915-74-7987
+
+Tax Id: 900-85-5439
+IBAN: GB73BTUA28000294115818
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. Vg PlayStation PS Vita console 1,00 each 114,98 114,98 10% 126,48
+PCH-1100AB01 PCH-1100
+Crystal Black 4GB 271214
+2. Nintendo Gameboy Pocket 3,00 each 70,00 210,00 10% 231,00
+Console Green with Box
+MGB-001 Japan Tested Working
+55
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 324,98 32,50 357,48
+Total
+
+$ 324,98 $ 32,50 $ 357,48

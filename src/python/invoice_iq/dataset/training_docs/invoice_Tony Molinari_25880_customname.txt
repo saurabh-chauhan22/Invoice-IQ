@@ -1,0 +1,31 @@
+SuperStore INVOICE
+
+# 25880
+
+Date: Nov 17 2012
+
+Bill To: Ship To:
+ne . pie Ship Mode: First Class
+Tony Molinari Surabaya, Jawa
+
+Timur, Indonesia Balance Due: $1,759.82
+
+Item Quantity Rate Amount
+Rogers File Cart, Industrial 4 $470.11 $1,880.45
+
+Storage, Office Supplies, OFF-ST-5692
+
+Subtotal: $1,880.45
+
+Discount (17%): $319.68
+
+Shipping: $199.05
+
+Total: $1,759.82
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-TM2149059-41230

@@ -1,0 +1,46 @@
+Invoice no: 33200744
+
+Date of issue:
+
+Seller:
+
+Boyer LLC
+799 Schultz Green Apt. 688
+Sarahtown, NC 31002
+
+Tax Id: 908-99-5495
+IBAN: GB11USZ036756358730638
+
+ITEMS
+
+No. Description
+
+dl The Nature Notes of an
+Edwardian Lady (Country Dia...
+by Holden, Edith Paperback
+
+2. Walleye wisdom
+
+SUMMARY
+
+Total
+
+04/02/2021
+
+Client:
+
+Terry, Johnson and Baldwin
+400 Emily Lake Suite 415
+North Marcusview, VT 75632
+
+Tax Id: 995-90-9653
+
+Qty UM Net price Net worth VAT [%] Gross
+worth
+
+1,00 each 26,67 26,67 10% 29,34
+3,00 each 4,49 13,47 10% 14,82
+VAT [%] Net worth VAT Gross worth
+10% 40,14 4,01 44,15
+
+$ 40,14 $ 4,01 $ 44,15

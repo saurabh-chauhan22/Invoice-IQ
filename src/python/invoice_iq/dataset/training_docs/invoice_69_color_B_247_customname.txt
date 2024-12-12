@@ -1,0 +1,46 @@
+Invoice no: 72120624
+
+Date of issue:
+
+Seller:
+
+Ferguson-Graham
+5908 Matthews Mountain
+Sotostad, ID 66878
+
+Tax Id: 957-81-4783
+IBAN: GB65FOQP67430087783490
+
+ITEMS
+No. Description Qty
+1. Lumiere Large Multicolored 5,00
+
+Orange Short Dress NWT
+
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+06/02/2011
+
+Client:
+
+Alexander-Roberts
+24160 Ortiz Mission
+South Rebekah, KS 24447
+
+Tax Id: 933-99-0088
+
+UM Net price Net worth VAT [%] Gross
+worth
+
+each 4,99 24,95 10% 27,45
+Net worth VAT Gross worth
+
+24,95 2,50 27,45
+
+$ 24,95 $ 2,50 $ 27,45

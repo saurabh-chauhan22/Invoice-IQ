@@ -1,0 +1,83 @@
+Invoice no: 34463395
+
+Date of issue:
+
+Seller:
+
+Ewing, Phillips and Lewis
+7018 Weiss Squares
+Morafort, MI 44565
+
+Tax Id: 991-79-6101
+IBAN: GB31NLGS26351590066137
+
+ITEMS
+No. Description Qty
+1. Kate Spade NY Sleeveless Ponte 1,00
+Fit & Flare Solid Black Dress
+Size 6
+2. R&M; RICHARDS WOMAN’S 3,00
+
+BLUE DRESS With Rhinestone
+Accent Short Sleeves Sz 16W
+
+NWT
+3. Rebecca Minkoff Black Polyester 3,00
+Fringe and Lambskin Dress Sz
+12
+4. Zara black dress in Small 1,00
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+09/19/2016
+
+UM
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+Client:
+
+Moore, Williams and Morgan
+408 Kyle Harbors
+West Brittany, OR 65757
+
+Tax Id: 948-82-7745
+
+Net price Net worth VAT [%]
+49,99 49,99 10%
+29,99 89,97 10%
+
+9,99 29,97 10%
+
+25,00 25,00 10%
+Net worth VAT
+194,93 19,49
+
+$ 194,93 $ 19,49
+
+Gross
+worth
+
+54,99
+
+98,97
+
+32,97
+
+27,50
+
+Gross worth
+
+214,42
+
+$ 214,42

@@ -1,0 +1,97 @@
+Invoice no: 67169614
+
+Date of issue:
+
+Seller:
+
+Figueroa LLC
+466 Kimberly Loaf Apt. 888
+Lake Paula, MD 86052
+
+Tax Id: 916-73-4264
+IBAN: GB16QRXK77318830891316
+
+ITEMS
+
+No. Description
+
+1. Reebok Boys Furylite Graphic
+Gray Athletic Shoes 6 Medium
+(D) Big Kid BHFO 0924
+
+2. Nike SB Dunk High x Concepts
+Kids Size 3 Ugly Sweater 2017
+Pre School AO1557-446
+
+SUMMARY
+
+Total
+
+Qty
+
+2,00
+
+5,00
+
+VAT [%]
+
+10%
+
+10/03/2014
+
+UM
+
+each
+
+each
+
+Client:
+
+Hood-Sanchez
+
+0534 Greene Land Apt. 246
+
+Johnsonbury, IN
+
+69110
+
+Tax Id: 924-71-1103
+
+Net price
+
+28,99
+
+100,00
+
+Net worth
+557,98
+
+$ 557,98
+
+Net worth VAT [%]
+
+57,98
+
+500,00
+
+VAT
+
+55,80
+
+$ 55,80
+
+10%
+
+10%
+
+Gross
+worth
+
+63,78
+
+550,00
+
+Gross worth
+613,78
+
+$ 613,78

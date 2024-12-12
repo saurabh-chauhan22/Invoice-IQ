@@ -1,0 +1,51 @@
+Invoice no: 29712721
+
+Date of issue: 05/04/2021
+
+Seller: Client:
+
+Holder-Mcdowell
+80159 Robert Crest
+West Kelsey, MI 40630
+
+Tax Id: 932-90-5392
+IBAN: GB15QZKA88830741837409
+
+ITEMS
+No. Description Qty UM
+1. LL Bean Boys Lot Size 1 Athletic 2,00 each
+Sneakers 2 Black Blue Canvas
+Belts SM
+2. Kids Jordan 7 Retro Sz 2y 1,00 each
+SUMMARY
+VAT [%]
+10%
+
+Total
+
+Navarro LLC
+44487 Natalie Port
+Willismouth, DE 59298
+
+Tax Id: 904-95-9977
+
+Net price Net worth VAT [%]
+6,99 13,98 10%
+72,00 72,00 10%
+
+Net worth VAT
+85,98 8,60
+$ 85,98 $ 8,60
+
+Gross
+worth
+
+15,38
+
+79,20
+
+Gross worth
+
+94,58
+
+$ 94,58

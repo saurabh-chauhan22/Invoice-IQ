@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 5732
+Date: Oct 25 2012
+Bill To: Ship To: ; .
+. Ship Mode: First Class
+Theone Pippenger Puebla, Puebla,
+Mexico Balance Due: $10,809.83
+Item Quantity Rate Amount
+Apple Smart Phone, Full Size 5 $2,120.70 $10,603.50
+Phones, Technology, TEC-PH-3148
+Subtotal: $10,603.50
+Shipping: $206.33
+Total: $10,809.83
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-TP21 13082-41207

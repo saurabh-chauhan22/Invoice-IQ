@@ -1,0 +1,87 @@
+Invoice no: 87616302
+
+Date of issue:
+
+Seller:
+
+Thomas PLC
+14830 Brian Village Apt. 381
+Patrickshire, HI 03681
+
+Tax Id: 905-73-6234
+IBAN: GBO4QOPC08870138785214
+
+ITEMS
+No. Description Qty
+1. 6'8 x 5' Handwoven Afghan 2,00
+
+Kilim Wool Area Rug Kelim Tapis
+Oriental Carpet #4434
+
+2. Room Mat Morocco Rug Round 2,00
+
+Bohemian Style Tassel Carpet
+Door Decor Blanket
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+05/16/2014
+
+UM
+
+each
+
+each
+
+Client:
+
+Price-Bradshaw
+
+244 Sweeney Pike Suite 088
+
+West Alexandraport, MS 17363
+
+Tax Id: 941-94-4238
+
+Net price
+
+259,00
+
+27,59
+
+Net worth
+573,18
+
+$ 573,18
+
+Net worth VAT [%]
+
+518,00
+
+55,18
+
+VAT
+57,32
+
+$ 57,32
+
+10%
+
+10%
+
+Gross
+worth
+
+569,80
+
+60,70
+
+Gross worth
+630,50
+
+$ 630,50

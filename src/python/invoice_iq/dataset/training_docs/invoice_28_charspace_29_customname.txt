@@ -1,0 +1,47 @@
+Invoice no: 44125587
+
+Date of issue:
+
+Seller:
+
+Robertson Ltd
+336 Katie Forge Apt. 452
+New Jennifermouth, NY 99131
+
+Tax Id: 919-88-8819
+IBAN: GB52KU0J31886476297728
+
+ITEMS
+No. Description Qty
+1. Nintendo BLUE Wii System 4,00
+
+Game Console Complete with 2
+Motion Remotes Tested Work
+
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+11/12/2017
+
+Client:
+
+Ross-Nichols
+270 Stephens Forges Suite 036
+West Shellyfurt, KY 34838
+
+Tax Id: 939-78-5417
+
+UM Net price Net worth VAT [%] Gross
+worth
+
+each 99,98 399,92 10% 439,91
+Net worth VAT Gross worth
+
+399,92 39,99 439,91
+
+$ 399,92 $ 39,99 $ 439,91

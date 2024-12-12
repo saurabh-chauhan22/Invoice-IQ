@@ -1,0 +1,103 @@
+Invoice no: 66789639
+
+Date of issue:
+
+Seller:
+
+Thomas Group
+13710 Henry Cliff
+Jonesshire, NV 05926
+
+Tax Id: 904-83-3752
+IBAN: GB18TVDL00942136316502
+
+ITEMS
+No. Description Qty
+1. KING JAMES VERSION (KJV), 3,00
+
+RAINBOW STUDY BIBLE, BLACK
+LEATHER with INDEX
+
+2. The Complete Illustrated Works 4,00
+of Lewis Carroll by Carroll, Lewis
+Hardback Book
+
+3. Sing My Way Home: Voices of 5,00
+the New American Roots
+
+4. Obama An Intimate Portrait by 3,00
+Pete Souza P-F EBOOK v
+
+3. Haida: Their Art and Culture 1,00
+6. Summer Places 4,00
+7. Michelangelo and the Popes 1,00
+
+Ceiling by Ross King
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+09/19/2011
+
+UM
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+Client:
+
+Ferguson and Sons
+082 Medina Lock Suite 628
+Alvarezport, MS 21031
+
+Tax Id: 942-75-5647
+
+Net price Net worth VAT [%]
+52,99 158,97 10%
+10,49 41,96 10%
+
+5,61 28,05 10%
+4,99 14,97 10%
+4,89 4,89 10%
+4,49 17,96 10%
+4,49 4,49 10%
+Net worth VAT
+271,29 27,13
+
+$ 271,29 $ 27,13
+
+Gross
+worth
+
+174,87
+
+46,16
+
+30,86
+
+16,47
+
+5,38
+19,76
+
+4,94
+
+Gross worth
+298,42
+
+$ 298,42

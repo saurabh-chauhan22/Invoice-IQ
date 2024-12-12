@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 21435
+Date: Jan 25 2013
+Bill To: Ship To: ;
+Ship Mode: Same Day
+Trudy Glocke Kuantan, Pahang,
+Malaysia Balance Due: $7,325.56
+Item Quantity Rate Amount
+Ikea 3-Shelf Cabinet, Mobile 7 $1,014.72 $7,103.04
+Bookcases, Furniture, FUR-BO-4845
+Subtotal: $7,103.04
+Shipping: $222.52
+Total: $7,325.56
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2013-TG2164078-41299

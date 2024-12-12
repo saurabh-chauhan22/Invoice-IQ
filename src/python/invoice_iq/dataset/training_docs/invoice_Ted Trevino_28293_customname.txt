@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 28293
+Date: Dec 20 2012
+Bill To: Ship To:
+me pie Ship Mode: First Class
+Ted Trevino Padang, Sumatera
+Barat, Indonesia Balance Due: $3,772.76
+Item Quantity Rate Amount
+Rogers Lockers, Blue 5 $878.22 $4,391.12
+Storage, Office Supplies, OFF-ST-5700
+Subtotal: $4,391.12
+Discount (17%): $746.49
+Shipping: $128.13
+Total: $3,772.76
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-TT2107059-41263

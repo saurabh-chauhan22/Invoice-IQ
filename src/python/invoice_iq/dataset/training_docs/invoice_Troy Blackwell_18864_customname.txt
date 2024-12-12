@@ -1,0 +1,19 @@
+SuperStore INVOICE
+
+# 18864
+Date: Nov 21 2012
+Bill To: Ship To: Ship Mode: Standard Cl
+Troy Blackwell Vienna, Vienna, pimioces angara wiass
+Austria Balance Due: $1,356.49
+Item Quantity Rate Amount
+Rogers File Cart, Single Width 3 $426.24 $1,278.72
+Storage, Office Supplies, OFF-ST-5693
+Subtotal: $1,278.72
+Shipping: $77.77
+Total: $1,356.49
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-TB215958-41234

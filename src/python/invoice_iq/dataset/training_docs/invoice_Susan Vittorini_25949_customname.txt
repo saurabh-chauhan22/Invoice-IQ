@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 25949
+Date: Jun 02 2012
+Bill To: Ship To: ;
+wae . . Ship Mode: Standard Class
+Susan Vittorini Melbourne, Victoria,
+Australia Balance Due: $5,348.85
+Item Quantity Rate Amount
+Harbour Creations Swivel Stool, Red 6 $972.65 $5,835.89
+Chairs, Furniture, FUR-CH-4563
+Subtotal: $5,835.89
+Discount (10%) : $583.59
+Shipping: $96.55
+Total: $5,348.85
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-SV209357-41062

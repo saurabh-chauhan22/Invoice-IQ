@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 22197
+Date: Jan 12 2013
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Theresa Coyne Melbourne, Victoria, pion’
+Australia Balance Due: $11,645.39
+Item Quantity Rate Amount
+Okidata Card Printer, White 9 $1,411.34 $12,702.10
+Machines, Technology, TEC-MA-5499
+Subtotal: $12,702.10
+Discount (10%): $1,270.21
+Shipping: $213.50
+Total: $11,645.39
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2013-TC211457-41286

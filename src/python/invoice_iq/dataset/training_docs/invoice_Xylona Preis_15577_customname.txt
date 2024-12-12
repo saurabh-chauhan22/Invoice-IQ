@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+#15577
+Date: Dec 04 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Xylona Preis Copenhagen,
+Hovedstaden, Balance Due: $1,717.28
+Denmark
+Item Quantity Rate Amount
+StarTech Printer, Durable 5 $640.73 $3,203.63
+Machines, Technology, TEC-MA-6147
+Subtotal: $3,203.63
+Discount (50%) : $1,601.82
+Shipping: $115.47
+Total: $1,717.28
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IT-2012-XP2186534-41247

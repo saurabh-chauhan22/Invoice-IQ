@@ -1,0 +1,37 @@
+Invoice no: 10011522
+
+Date of issue: 12/03/2011
+
+Seller: Client:
+
+White and Sons
+50785 Davis Tunnel
+Shortburgh, KS 31258
+
+Jenkins, Jones and Snyder
+8805 Zavala Circle Apt. 181
+East Ericmouth, OR 84640
+
+Tax Id: 963-99-1782
+
+Tax Id: 926-73-6550
+IBAN: GB48PRFO84850225035723
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+
+1. HP Pro 3500 Microtower 4,00 each 74,99 299,96 10% 329,96
+Desktop Computer 3.4GHz i3
+4GB 500GB Windows 10 Pro
+
+2. Dell Optiplex 990 MT Computer 5,00 each 269,95 1 349,75 10% 1 484,72
+PC Quad Core i7 3.4GHz 16GB
+2TB HD Windows 10 Pro
+
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 1 649,71 164,97 1 814,68
+Total $1 649,71 $ 164,97
+
+$1 814,68

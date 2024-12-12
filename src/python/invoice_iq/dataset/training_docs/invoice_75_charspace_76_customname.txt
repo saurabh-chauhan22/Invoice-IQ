@@ -1,0 +1,33 @@
+Invoice no: 51396432
+
+Date of issue: 06/15/2019
+
+Seller: Client:
+
+Crawford, Gray and Tapia
+81936 Black Greens Apt. 537
+North Jeremyberg, NY 86963
+
+Rodriguez, Mayer and Espinoza
+907 Wilkerson Port
+Port Melissa, KS 24627
+
+Tax Id: 953-88-1723
+
+Tax Id: 935-90-9517
+IBAN: GB91DFBD46245292706248
+
+ITEMS
+
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. SEGA Dreamcast Sakura Wars 3,00 each 639,99 1 919,97 10% 2 111,97
+
+Limited Edition Console Tested
+
+Working from JAPAN
+SUMMARY
+
+VAT [%] Net worth VAT Gross worth
+10% 1 919,97 192,00 2 111,97
+Total $1919,97 $ 192,00 $2111,97

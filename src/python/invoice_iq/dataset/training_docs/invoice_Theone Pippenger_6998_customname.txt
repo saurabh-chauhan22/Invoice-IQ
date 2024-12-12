@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 6998
+Date: Dec 10 2012
+Bill To: Ship To: ; .
+. Ship Mode: First Class
+Theone Pippenger Managua, Managua,
+Nicaragua Balance Due: $1,998.12
+Item Quantity Rate Amount
+Brother Fax Machine, High-Speed 3 $632.21 $1,896.64
+Copiers, Technology, TEC-CO-3597
+Subtotal: $1,896.64
+Discount (0.2%): $3.79
+Shipping: $105.27
+Total: $1,998.12
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-TP21 13093-41253

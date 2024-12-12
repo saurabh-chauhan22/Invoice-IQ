@@ -1,0 +1,101 @@
+Invoice no: 83091868
+
+Date of issue:
+
+Seller:
+
+Roberts PLC
+04028 Amy Avenue
+South Leah, MD 19334
+
+Tax Id: 922-82-4383
+IBAN: GB86XGQG99639899146980
+
+ITEMS
+No. Description Qty
+1. Dell Optiplex All in One 3,00
+
+Windows 10 Desktop Computer
+780 3.0GHz 4GB 250GB 19 LCD
+
+2. AMD Custom Built Quad Core 4,00
+Ryzen 5 Gaming PC Computer
+8GB DDR4 Vega 11 SSD
+
+3. Ryzen Gaming Computer 3,00
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+05/17/2016
+
+UM
+
+each
+
+each
+
+each
+
+Client:
+
+Net price
+
+129,99
+
+599,99
+
+752,00
+
+Net worth
+
+5 045,93
+
+$ 5 045,93
+
+Jones, Frazier and Banks
+65116 Cynthia Divide Apt. 617
+Matthewfurt, NV 42304
+
+Tax Id: 941-97-8554
+
+Net worth
+
+389,97
+
+2 399,96
+
+2 256,00
+
+VAT [%]
+
+10%
+
+10%
+
+10%
+
+VAT
+
+504,59
+
+$ 504,59
+
+Gross
+worth
+
+428,97
+
+2 639,96
+
+2 481,60
+
+Gross worth
+
+5 550,52
+
+$5 550,52

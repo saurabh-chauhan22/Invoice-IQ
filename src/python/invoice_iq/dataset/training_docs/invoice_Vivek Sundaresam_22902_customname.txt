@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 22902
+Date: Apr 07 2012
+Bill To: Ship To:
+ne pie Ship Mode: Standard Class
+Vivek Sundaresam Perth, Western
+Australia, Australia Balance Due: $9,118.21
+Item Quantity Rate Amount
+Hoover Microwave, Red 6 $1,666.66 $9,999.94
+Appliances, Office Supplies, OFF-AP-4731
+Subtotal: $9,999.94
+Discount (10%) : $999.99
+Shipping: $118.26
+Total: $9,118.21
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-VS218207-41006

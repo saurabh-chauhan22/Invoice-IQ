@@ -1,0 +1,18 @@
+Invoice no: 99666646
+
+Date of issue: 02/12/2012
+Seller: Client:
+Estes Inc Guerra, Tanner and Whitaker
+9749 Santos Fort Suite 232 4263 Bernard Village Suite 958
+East Douglas, IL 17161 Haasmouth, WA 76502
+Tax Id: 992-90-4983 Tax Id: 936-72-7293
+IBAN: GB59MMOR18608580733390
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. SOFA SET 5,00 each 250,00 1 250,00 10% 1 375,00
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 1 250,00 125,00 1 375,00
+
+Total $ 1 250,00 $ 125,00 $ 1375,00

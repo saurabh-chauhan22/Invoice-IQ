@@ -1,0 +1,26 @@
+Invoice no: 32483790
+
+Date of issue: 05/25/2017
+Seller: Client:
+Calhoun, Russell and Gilbert Walters Group
+706 Philip Squares USCGC Sanchez
+Port Kelliville, MT 86827 FPO AA 81046
+Tax Id: 959-99-6184 Tax Id: 976-78-4424
+IBAN: GBO2IXLF44866039290752
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. Pre Built Gaming Computer 4 3,00 each 577,49 1 732,47 10% 1 905,72
+GHZ AMD Ryzen 8GB RAM
+Desktop 240 GB SSD DVD WIFI
+2. hp or Dell Desktop PC Computer 4,00 each 179,99 719,96 10% 791,96
+Dual Core 4GB RAM DUAL 19"
+LCDs WiFi Windows 10
+3. W5 Pro Mini Pocket PC Windows 1,00 each 119,00 119,00 10% 130,90
+10 Computer Stick Intel Z8350
+Quad Core
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 2 571,43 257,14 2 828,57
+
+Total $ 2 571,43 $ 257,14 $ 2 828,57

@@ -1,0 +1,34 @@
+Invoice no: 16021510
+
+Date of issue: 12/21/2014
+Seller: Client:
+West LLC Flowers-Medina
+075 Christina Mission 9642 Molina Mill Apt. 739
+Port Shannon, WI 50146 Rowemouth, DC 15696
+Tax Id: 920-98-9142 Tax Id: 998-81-6833
+IBAN: GBOS5MKKL50400612864650
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%]
+1. Xbox 360 console with games. 1,00 each 41,00 41,00 10%
+2. Sony PlayStation 1 PS1 Console 4,00 each 14,99 59,96 10%
+model scph-7501
+3. Nintendo Wii Console Complete 2,00 each 104,99 209,98 10%
+Bundle w/extras tested
+SUMMARY
+VAT [%] Net worth VAT
+10% 310,94 31,09
+Total $ 310,94 $ 31,09
+
+Gross
+worth
+
+45,10
+
+65,96
+
+230,98
+
+Gross worth
+342,03
+
+$ 342,03

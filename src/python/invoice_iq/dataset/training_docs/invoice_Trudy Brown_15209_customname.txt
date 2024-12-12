@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 15209
+Date: Dec 19 2012
+Bill To: Ship To: Ship Mod S acl
+: econd Class
+Trudy Brown Bayonne, Aquitaine- pamoce
+Limousin-Poitou- Balance Due: $1,105.55
+Charentes, France
+Item Quantity Rate Amount
+Office Star Rocking Chair, Red 3 $380.46 $1,141.37
+Chairs, Furniture, FUR-CH-5448
+Subtotal: $1,141.37
+Discount (10%): $114.14
+Shipping: $78.32
+Total: $1,105.55
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-TB2162545-41 262

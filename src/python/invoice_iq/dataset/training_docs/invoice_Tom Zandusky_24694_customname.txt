@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 24694
+Date: Dec 07 2012
+
+Bill To: Ship To: Ship Mode: S acl
+Tom Zandusky Chongqing, pimioces Second ass
+Chongging, China Balance Due: $1,314.72
+Item Quantity Rate Amount
+Office Star Rocking Chair, Black 3 $415.44 $1,246.32
+
+Chairs, Furniture, FUR-CH-5447
+
+Subtotal: $1,246.32
+Shipping: $68.40
+Total: $1,314.72
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-TZ2144527-41250

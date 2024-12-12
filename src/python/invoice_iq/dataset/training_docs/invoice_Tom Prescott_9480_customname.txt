@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 9480
+Date: Feb 09 2012
+Bill To: Ship To: ;
+oo. Ship Mode: Second Class
+Tom Prescott Sancti Spiritus,
+Sancti Spiritus, Cuba Balance Due: $1,344.80
+Item Quantity Rate Amount
+SAFCO Executive Leather Armchair, Adjustable 2 $618.56 $1,237.12
+Chairs, Furniture, FUR-CH-5773
+Subtotal: $1,237.12
+Shipping: $107.68
+Total: $1,344.80
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-TP2141531-40948

@@ -1,0 +1,55 @@
+Invoice no: 25530834
+
+Date of issue: 01/20/2019
+
+Seller:
+
+Johnson-Roth
+966 Natasha Mountains Suite 004
+West Danielle, NE 39368
+
+Tax Id: 954-85-0418
+IBAN: GB21QRUS69394598148168
+
+ITEMS
+No. Description Qty UM
+1. 1920s Flapper Gatsby Cocktail 4,00 each
+
+Dress Chiffon Wedding Party
+Evening Formal Dresses
+
+2. Talbots Petite 8 Navy & White 1,00 each
+Dandelion Puffs Sleeveless
+Dress
+SUMMARY
+VAT [%]
+10%
+Total
+
+Client:
+
+Jacobs, Stewart and Gray
+33635 Angela Drive
+South Latoya, UT 41067
+
+Tax Id: 901-78-4203
+
+Net price Net worth VAT [%]
+
+8,99 35,96 10%
+14,99 14,99 10%
+Net worth VAT
+50,95 5,10
+$ 50,95 $ 5,10
+
+Gross
+worth
+
+39,56
+
+16,49
+
+Gross worth
+56,05
+
+$ 56,05

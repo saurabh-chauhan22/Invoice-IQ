@@ -1,0 +1,95 @@
+Invoice no: 76739374
+
+Date of issue:
+
+Seller:
+
+Jones, Hooper and Rodriguez
+60777 Hailey Mountains
+Spearsborough, UT 17998
+
+Tax Id: 962-82-1365
+IBAN: GB85FDVJ15961649574233
+
+ITEMS
+No. Description Qty
+1. Hoodie Wine Bottle Holder 3,00
+2. Hicoup Waiters Corkscrew Wine 1,00
+
+Bottle Opener Professional
+Stainless Steel - Black
+
+3. Libbey Classic White Wine 5,00
+Glasses, Set of 4 14 ounce Glass
+
+4. VINTAGE IRON WINE BOTTLE 3,00
+HOLDER CADDY~HAND
+WROUGHT, CUT, SOLDERED
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+12/29/2016
+
+UM
+
+each
+
+each
+
+each
+
+each
+
+Client:
+Holmes-Wright
+
+59988 Julie Ford Suite 178
+Port Evanville, NV 06912
+
+Tax Id: 949-87-9751
+
+Net price
+
+11,69
+
+16,97
+
+18,74
+
+22,50
+
+Net worth
+213,24
+
+$ 213,24
+
+Net worth VAT [%]
+35,07 10%
+16,97 10%
+93,70 10%
+67,50 10%
+
+VAT
+21,32
+$ 21,32
+
+Gross
+worth
+
+38,58
+
+18,67
+
+103,07
+
+74,25
+
+Gross worth
+234,56
+
+$ 234,56

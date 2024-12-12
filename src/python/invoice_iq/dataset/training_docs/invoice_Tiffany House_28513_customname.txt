@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 28513
+Date: Aug 18 2012
+Bill To: Ship To: ;
+. Ship Mode: Same Day
+Tiffany House Caloundra,
+Queensland, Balance Due: $1,730.01
+Australia
+Item Quantity Rate Amount
+Motorola Headset, VoIP 5 $359.24 $1,796.18
+Phones, Technology, TEC-PH-5253
+Subtotal: $1,796.18
+Discount (10%): $179.62
+Shipping: $113.45
+Total: $1,730.01
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-TH212357-41139

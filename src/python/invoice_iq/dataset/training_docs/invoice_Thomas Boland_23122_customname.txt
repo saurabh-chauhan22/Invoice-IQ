@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 23122
+Date: Aug 11 2012
+Bill To: Ship To: ;
+| | Ship Mode: Standard Class
+Thomas Boland Kendari, Sulawesi
+Tenggara, Indonesia Balance Due: $6,102.72
+Item Quantity Rate Amount
+Canon Fax and Copier, Laser 6 $1,067.68 $6,406.06
+Copiers, Technology, TEC-CO-3685
+Subtotal: $6,406.06
+Discount (7%): $448.42
+Shipping: $145.08
+Total: $6,102.72
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-TB2117559-41132

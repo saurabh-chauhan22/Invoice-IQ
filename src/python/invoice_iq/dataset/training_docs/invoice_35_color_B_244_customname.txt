@@ -1,0 +1,38 @@
+Invoice no: 77307465
+
+Date of issue: 08/12/2014
+
+Seller: Client:
+
+Warren, Henry and Ellis
+3243 Brandon Flat
+Port Williamfurt, UT 22117
+
+Moore and Sons
+20959 Cunningham Rapids
+Reeveshaven, NJ 43746
+
+Tax Id: 998-94-3923
+
+Tax Id: 900-82-2663
+IBAN: GB950GSV36555708398085
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+
+1. Vintage Gothic Lolita Dress 1,00 each 22,77 22,77 10% 25,05
+Women Loose Puff Sleeve Pure
+Color Princess Dresses
+
+2. R&M; RICHARDS WOMAN’S 5,00 each 29,99 149,95 10% 164,94
+BLUE DRESS With Rhinestone
+Accent Short Sleeves Sz 16W
+NWT
+
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 172,72 17,27 189,99
+Total
+
+$ 172,72 $ 17,27 $ 189,99

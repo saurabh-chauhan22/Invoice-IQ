@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 25931
+Date: May 05 2012
+Bill To: Ship To: ;
+| Ship Mode: Standard Class
+Tamara Chand Chengdu, Sichuan,
+China Balance Due: $3,469.66
+Item Quantity Rate Amount
+Brother Wireless Fax, High-Speed 3 $1,131.03 $3,393.09
+Copiers, Technology, TEC-CO-3610
+Subtotal: $3,393.09
+Shipping: $76.57
+Total: $3,469.66
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-TC2098027-41034

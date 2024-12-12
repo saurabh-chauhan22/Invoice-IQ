@@ -1,0 +1,70 @@
+Invoice no: 73316184
+
+Date of issue:
+
+Seller:
+
+Gates LLC
+50096 Gilbert Club Suite 782
+Nancyshire, AR 76017
+
+Tax Id: 910-77-6770
+IBAN: GB77XBMO043486566444443
+
+ITEMS
+No. Description Qty
+1. adidas Originals Kids Stan Smith 2,00
+White Green Toddler Boy Girl US
+9
+2. DC Kids Turbo Skate Shoe (Little 1,00
+
+Kid/Big Kid) Color WHITE/ROYAL
+
+3. Blueteeth LED Galaxy Projector 5,00
+Starry Night Lamp Star
+Projection Night Light USB
+
+4. LL Bean Boys Lot Size 1 Athletic 1,00
+Sneakers 2 Black Blue Canvas
+Belts SM
+SUMMARY
+VAT [%]
+10%
+Total
+
+01/22/2018
+
+Client:
+
+Shaffer-Levy
+03864 Matthew Passage
+Laurenland, DC 21832
+
+Tax Id: 975-85-8194
+
+UM Net price Net worth VAT [%]
+each 12,00 24,00 10%
+each 55,00 55,00 10%
+each 28,49 142,45 10%
+each 6,99 6,99 10%
+
+Net worth VAT
+228,44 22,84
+$ 228,44 $ 22,84
+
+Gross
+worth
+
+26,40
+
+60,50
+
+156,69
+
+7,69
+
+Gross worth
+
+251,28
+
+$ 251,28

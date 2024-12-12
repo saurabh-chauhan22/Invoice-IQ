@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 25463
+Date: Sep 14 2012
+Bill To: Ship To: Ship Mode: S acl
+Victor Preis Brisbane, pimioces econa Wiass
+Queensland, Balance Due: $5,314.27
+Australia
+Item Quantity Rate Amount
+Eldon File Cart, Single Width 7 $808.73 $5,661.12
+Storage, Office Supplies, OFF-ST-4057
+Subtotal: $5,661.12
+Discount (10%): $566.11
+Shipping: $219.26
+Total: $5,314.27
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-VP217307-41166

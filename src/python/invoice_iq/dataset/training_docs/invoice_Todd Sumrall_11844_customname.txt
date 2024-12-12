@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 11844
+Date: Jun 01 2012
+Bill To: Ship To: ;
+| Ship Mode: Second Class
+Todd Sumrall Augsburg, Bavaria,
+Germany Balance Due: $3,558.03
+Item Quantity Rate Amount
+SAFCO Executive Leather Armchair, Adjustable 3 $1,252.58 $3,757.75
+Chairs, Furniture, FUR-CH-5773
+Subtotal: $3,757.75
+Discount (10%): $375.78
+Shipping: $176.06
+Total: $3,558.03
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IT-2012-TS2137048-41061

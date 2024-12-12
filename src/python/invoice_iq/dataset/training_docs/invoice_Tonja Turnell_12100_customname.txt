@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+#12100
+Date: Apr 15 2012
+Bill To: Ship To: ;
+; Ship Mode: Standard Class
+Tonja Turnell Nancy, Alsace-
+Champagne _ Balance Due: $6,298.03
+Ardenne-Lorraine,
+France
+Item Quantity Rate Amount
+Memorex Router, USB 5 $1,232.10 $6,160.50
+Accessories, Technology, TEC-AC-5226
+Subtotal: $6,160.50
+Shipping: $137.53
+Total: $6,298.03
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-TT2146045-41014

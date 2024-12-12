@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+#19175
+Date: Jan 19 2013
+Bill To: Ship To:
+° . pie Ship Mode: Standard Class
+Valerie Dominguez Northampton,
+England, United Balance Due: $718.64
+Kingdom
+Item Quantity Rate Amount
+Samsung Smart Phone, VoIP 1 $636.24 $636.24
+Phones, Technology, TEC-PH-5841
+Subtotal: $636.24
+Shipping: $82.40
+Total: $718.64
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2013-VD21670139-41293

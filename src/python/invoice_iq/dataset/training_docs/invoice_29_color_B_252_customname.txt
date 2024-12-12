@@ -1,0 +1,53 @@
+Invoice no: 19078061
+
+Date of issue:
+
+Seller:
+
+Wilson PLC
+6733 Edwin Forges Apt. 764
+West Alexisbury, SD 12449
+
+Tax Id: 958-86-2984
+IBAN: GB84ZRNY19629363252302
+
+ITEMS
+No. Description Qty
+1. Microsoft Xbox Series X Console 2,00
+Pre-Order - CONFIRMED
+SUMMARY
+VAT [%]
+
+10%
+
+Total
+
+UM
+
+each
+
+03/03/2013
+
+Client:
+
+Combs Group
+7579 Lopez Fields
+Davisstad, MD 62868
+
+Tax Id: 993-97-1984
+
+Net price Net worth VAT [%]
+849,99 1 699,98 10%
+Net worth VAT
+1 699,98 170,00
+$ 1 699,98 $ 170,00
+
+Gross
+worth
+
+1 869,98
+
+Gross worth
+1 869,98
+
+$ 1 869,98

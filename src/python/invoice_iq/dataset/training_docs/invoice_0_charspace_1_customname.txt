@@ -1,0 +1,31 @@
+Invoice no: 12060439
+
+Date of issue: 08/29/2020
+
+Seller: Client:
+
+Brown-Johnson Calderon-Duran
+
+310 Amanda Corner Suite 472 9884 Roberts Tunnel
+North William, MN 33119 North Lindaside, VA 02674
+Tax Id: 981-94-7235 Tax Id: 996-81-8911
+
+IBAN: GB78IXYE58273701690538
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. Rectangle Area Rug Wood Grain 4,00 each 32,81 131,24 10% 144,36
+Carpet Mat for Living Room
+Bedroom - 180x60cm
+2. Rug for living room-Minion And 2,00 each 29,96 59,92 10% 65,91
+Banana Area Rugs Living Room
+Carpet, Christmas...
+3. Yilong 5'x7.5' Hand Knotted Silk 3,00 each 2 800,00 8 400,00 10% 9 240,00
+Area Rug Medium Size Classic
+Floor Carpets 0186
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 8 591,16 859,12 9 450,28
+
+Total $8591,16 $ 859,12 $9 450,28

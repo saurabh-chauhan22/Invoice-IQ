@@ -1,0 +1,29 @@
+Invoice no: 33820176
+
+Date of issue: 06/16/2020
+
+Seller: Client:
+
+Henson and Sons Golden, Howell and Raymond
+498 Kline Skyway 352 Karen Junctions Suite 611
+West Heatherfurt, VA 05687 Lake Jaimemouth, NH 39662
+Tax Id: 946-79-4176 Tax Id: 990-97-3193
+
+IBAN: GB66TYZS77390905148711
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. Libbey Classic White Wine 4,00 each 18,74 74,96 10% 82,46
+Glasses, Set of 4 14 ounce Glass
+2. Iron Glass Holder Organizer Wall 2,00 each 44,33 88,66 10% 97,53
+Mounted Kitchen Bar 5 Bottles
+Wine Rack Display
+3. Leather Wine Carrier Single 4,00 each 11,99 47,96 10% 52,76
+Bottle Gift Bag Christmas
+Wedding Party Reusable
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 211,58 21,16 232,74
+
+Total $ 211,58 $ 21,16 $ 232,74

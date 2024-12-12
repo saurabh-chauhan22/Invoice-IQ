@@ -1,0 +1,42 @@
+Invoice no: 81599770
+
+Date of issue: 11/24/2016
+
+Seller: Client:
+
+Hampton, Lewis and Long Wise LLC
+
+Unit 0337 Box 9953 26956 Wang Circle
+
+DPO AA 09013 New Sallyville, OK 57347
+Tax Id: 948-98-6608 Tax Id: 979-95-2098
+
+IBAN: GB77TUZN28360460576772
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%]
+1. NEW!! Free People: layered 3,00 each 39,99 119,97 10%
+Gray Dress NWT (Size Small)
+$128 Long Sleeve Rayon
+2. LuLaRoe Nicole Dress Size Large 1,00 each 1,99 1,99 10%
+26
+3. New Wallis black floral midi 1,00 each 38,00 38,00 10%
+dress sleeveles, size UK 12
+SUMMARY
+VAT [%] Net worth VAT
+10% 159,96 16,00
+Total $ 159,96 $ 16,00
+
+Gross
+worth
+
+131,97
+
+2,19
+
+41,80
+
+Gross worth
+175,96
+
+$ 175,96

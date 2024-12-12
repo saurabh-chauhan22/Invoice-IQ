@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 26597
+Date: Apr 10 2012
+Bill To: Ship To: ;
+. . . Ship Mode: Standard Class
+Sung Shariari Kendari, Sulawesi
+Tenggara, Indonesia Balance Due: $4,984.80
+Item Quantity Rate Amount
+Smead Shelving, Industrial 12 $492.12 $5,905.48
+Storage, Office Supplies, OFF-ST-6058
+Subtotal: $5,905.48
+Discount (17%): $1,003.93
+Shipping: $83.25
+Total: $4,984.80
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-SS2087559-41009

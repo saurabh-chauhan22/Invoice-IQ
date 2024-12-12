@@ -1,0 +1,105 @@
+Invoice no: 65281725
+
+Date of issue:
+
+Seller:
+
+Ortiz-Byrd
+264 Joseph Throughway
+West Matthew, MS 75585
+
+Tax Id: 905-85-5524
+IBAN: GB32AGZV46307058202674
+
+ITEMS
+No. Description Qty
+1. STUDENT/WORK COMPUTER 2,00
+WORKSTATION WINDOWS 10.
+PRO
+2. HP Pro 3500 Microtower 1,00
+
+Desktop Computer 3.4GHz i3
+4GB 500GB Windows 10 Pro
+
+3. Alarco Gaming PC Desktop 4,00
+Computer Intel i5v 8Gv WIN
+10v1Tbv NVIDIA GTX 650 1GB
+
+4. Gaming PC Desktop Computer 2,00
+HDMI RGB Intel i7 RTX 2060,
+HDD+SSD, Windows 10, Wifi
+
+5. 10 Core Gaming Computer 1,00
+Desktop PC Tower 1T 16GB R7
+CUSTOM BUILT RED/BLACK
+
+6. HP Elite 8300 Business USFF 2,00
+
+Desktop Computer i3 4GB
+250GB Windows 10
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+04/29/2013
+
+UM
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+Client:
+
+Palmer Inc
+309 Michael Spur Apt. 167
+East Brittany, WI 49212
+
+Tax Id: 960-76-0635
+
+Net price Net worth VAT [%]
+100,00 200,00 10%
+74,99 74,99 10%
+500,00 2 000,00 10%
+903,80 1 807,60 10%
+369,99 369,99 10%
+84,99 169,98 10%
+
+Net worth VAT
+
+4 622,56 462,26
+
+$ 4 622,56 $ 462,26
+
+Gross
+worth
+
+220,00
+
+82,49
+
+2 200,00
+
+1 988,36
+
+406,99
+
+186,98
+
+Gross worth
+
+5 084,82
+
+$ 5 084,82

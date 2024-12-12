@@ -1,0 +1,61 @@
+Invoice no: 70710512
+
+Date of issue:
+
+Seller:
+
+Alvarado, Stokes and Oliver
+86023 Lee Ferry Apt. 876
+Andersonmouth, LA 88736
+
+Tax Id: 917-81-7913
+IBAN: GB28TRTH90859067641033
+
+ITEMS
+No. Description Qty
+1. 1pc Wine Display Rack Wine 1,00
+
+Holders Wine Bottle Racks for
+Home Cabinet
+
+2. Wild West Wine 4,00
+
+3. Uncork New York rolling 3,00
+vineryards Wine glass set of 2
+
+4. Refinery Wine Opener 2,00
+3. Threshold Quality Strafford 2,00
+
+Champagne Glasses Set of 4,
+New in Box, Wine Flutes
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+08/05/2013
+
+Client:
+
+Smith, Hernandez and Trujillo
+5708 Turner Fields
+Jonesport, MT 38202
+
+Tax Id: 987-81-5356
+
+UM Net price Net worth VAT [%] Gross
+worth
+
+each 59,25 59,25 10% 65,18
+each 27,00 108,00 10% 118,80
+each 5,99 17,97 10% 19,77
+each 10,00 20,00 10% 22,00
+each 24,99 49,98 10% 54,98
+Net worth VAT Gross worth
+
+255,20 25,52 280,72
+
+$ 255,20 $ 25,52 $ 280,72

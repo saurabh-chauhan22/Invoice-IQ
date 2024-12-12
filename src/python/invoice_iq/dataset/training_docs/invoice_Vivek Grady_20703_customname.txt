@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 20703
+Date: Aug 01 2012
+Bill To: Ship To: ;
+. . . Ship Mode: Standard Class
+Vivek Grady Surat, Gujarat, India
+Balance Due: $1,906.05
+Item Quantity Rate Amount
+Novimex Executive Leather Armchair, Adjustable 2 $911.04 $1,822.08
+Chairs, Furniture, FUR-CH-5378
+Subtotal: $1,822.08
+Shipping: $83.97
+Total: $1,906.05
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-VG2180558-41 122

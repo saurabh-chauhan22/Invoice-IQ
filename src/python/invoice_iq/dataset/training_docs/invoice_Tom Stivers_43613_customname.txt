@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 43613
+Date: Feb 24 2012
+
+Bill To: Ship To: Ship Mode: First Cl
+Tom Stivers Qom, Qon, Iran p Mocs: St UIass
+Balance Due: $790.26
+Item Quantity Rate Amount
+Cisco Smart Phone, with Caller ID 1 $654.24 $654.24
+
+Phones, Technology, TEC-PH-3807
+
+Subtotal: $654.24
+Shipping: $136.02
+Total: $790.26
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IR-2012-TS1143060-40963

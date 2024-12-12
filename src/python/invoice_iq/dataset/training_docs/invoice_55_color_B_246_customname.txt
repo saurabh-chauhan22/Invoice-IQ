@@ -1,0 +1,81 @@
+Invoice no: 29864689
+
+Date of issue:
+
+Seller:
+
+Greene PLC
+380 Clark Throughway
+Alexandraview, OH 65067
+
+Tax Id: 952-74-5116
+IBAN: GB55MMEF60869801450930
+
+ITEMS
+No. Description Qty
+1. 36 Inches Marble Meeting Table 5,00
+
+Top Inlay Dinning Table with
+Red Jasper Stone Art
+
+2. 26"x26" Marble Black Top 2,00
+Coffee Table Inlay Floral
+Pietradura Art Christmas Gift
+
+3. 48 Inches Marble Reception 2,00
+
+Table Top Inlay with Multi Color
+Stones Dinning Table
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+04/09/2021
+
+Client:
+
+Russell LLC
+
+4023 Gregory Spurs
+East Teresa, SC 38647
+
+Tax Id: 913-71-3837
+
+UM Net price
+each 1 376,25
+each 1 489,00
+each 2174,25
+
+Net worth
+14 207,75
+$ 14 207,75
+
+Net worth VAT [%]
+
+6 881,25 10%
+2 978,00 10%
+4 348,50 10%
+
+VAT
+
+1 420,78
+
+$ 1 420,78
+
+Gross
+worth
+
+7 569,37
+
+3 275,80
+
+4 783,35
+
+Gross worth
+15 628,53
+
+$ 15 628,53

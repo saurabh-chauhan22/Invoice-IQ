@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+#21272
+Date: Jul 19 2012
+Bill To: Ship To: ; .
+. . . Ship Mode: First Class
+Tracy Hopkins Melbourne, Victoria,
+Australia Balance Due: $580.92
+Item Quantity Rate Amount
+Hewlett Personal Copier, Color 2 $262.28 $524.56
+Copiers, Technology, TEC-CO-4586
+Subtotal: $524.56
+Discount (10%): $52.46
+Shipping: $108.82
+Total: $580.92
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-TH215507-41109

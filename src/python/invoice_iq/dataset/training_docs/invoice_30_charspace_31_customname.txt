@@ -1,0 +1,27 @@
+Invoice no: 75260283
+
+Date of issue: 03/01/2013
+Seller: Client:
+Johnson-Sloan Cook, White and Rodriguez
+692 Keith Lock Apt. 468 730 Jones Curve Apt. 947
+South Lauren, MN 77892 North Georgeview, NY 53889
+Tax Id: 980-76-2177 Tax Id: 908-78-4723
+IBAN: GB49UUQT59947603645485
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. J crew Mercantile Women’s Maxi 4,00 each 20,00 80,00 10% 88,00
+Dress Size 2 Floral Tiered Lined
+Pink
+2. Weekend MaxMara Womens 2,00 each 86,25 172,50 10% 189,75
+Blue Cotton Floral Casual Wrap
+Dress 10 BHFO 9284
+3. Matilda Jane Womans Lets Go 4,00 each 19,60 78,40 10% 86,24
+Together Black Knit Dress Size
+M Medium NWT
+4. Zara Yellow Shift Dress XS 2,00 each 24,75 49,50 10% 54,45
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 380,40 38,04 418,44
+
+Total $ 380,40 $ 38,04 $ 418,44

@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 20584
+Date: Oct 25 2012
+Bill To: Ship To: ;
+; . Ship Mode: Standard Class
+Tracy Blumstein Pekanbaru, Riau,
+Indonesia Balance Due: $1,551.57
+Item Quantity Rate Amount
+Breville Refrigerator, Red 2 $862.09 $1,724.18
+Appliances, Office Supplies, OFF-AP-3575
+Subtotal: $1,724.18
+Discount (17%): $293.11
+Shipping: $120.50
+Total: $1,551.57
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-TB2152059-41207

@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 30489
+Date: Dec 15 2012
+
+Bill To: Ship To: Ship Mode: Standard Cl
+Victoria Wilson Hamilton, Waikato, pimioces angara wiass
+New Zealand Balance Due: $4,416.46
+Item Quantity Rate Amount
+Lesro Training Table, Fully Assembled 4 $1,081.08 $4,324.32
+
+Tables, Furniture, FUR-TA-5068
+
+Subtotal: $4,324.32
+Shipping: $92.14
+Total: $4,416.46
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-VW2177592-41 258

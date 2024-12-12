@@ -1,0 +1,87 @@
+Invoice no: 10893877
+
+Date of issue: 06/26/2018
+
+Seller:
+
+Ruiz, Robinson and Kim
+722 Mendoza Ville
+Timothyville, KS 15580
+
+Tax Id: 912-74-3989
+IBAN: GB63B0Q193708234783824
+
+ITEMS
+No. Description Qty UM
+1. Guess White Halter Dress Size 3,00 each
+10
+2. Christmas Dress Grace Karin 4,00 each
+
+Sleeveless Christmas dress Red
+Black size Large
+
+3. miley cyrus Bubble Dress 1,00 each
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+Client:
+
+Richardson PLC
+PSC 3682, Box 8583
+APO AA 52174
+
+Tax Id: 976-91-2971
+
+Net price Net worth
+
+13,00
+
+9,99
+
+16,00
+
+Net worth
+
+94,96
+
+$ 94,96
+
+39,00
+
+39,96
+
+16,00
+
+VAT
+
+9,50
+
+$ 9,50
+
+VAT [%]
+
+10%
+
+10%
+
+10%
+
+Gross
+worth
+
+42,90
+
+43,96
+
+17,60
+
+Gross worth
+
+104,46
+
+$ 104,46

@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 23466
+Date: Oct 05 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Todd Sumrall Visakhapatnam,
+Andhra Pradesh, Balance Due: $8,579.17
+India
+Item Quantity Rate Amount
+Breville Refrigerator, Red 4 $2,077.32 $8,309.28
+Appliances, Office Supplies, OFF-AP-3575
+Subtotal: $8,309.28
+Shipping: $269.89
+Total: $8,579.17
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-TS2137058-41187

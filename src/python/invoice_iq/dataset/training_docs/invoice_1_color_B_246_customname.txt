@@ -1,0 +1,47 @@
+Invoice no: 53875869
+
+Date of issue:
+
+Seller:
+
+Mitchell Ltd
+Unit 7006 Box 2136
+DPO AP 32657
+
+Tax Id: 998-99-1098
+IBAN: GB79TYOE48218409014324
+
+ITEMS
+No. Description Qty
+1. Women Elegant Fashion O-Neck 5,00
+
+Knee Length Short Sleeve Retro
+Floral Print Dress
+
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+07/12/2012
+
+Client:
+
+Elliott, Kelly and Turner
+Unit 8751 Box 0823
+DPO AA 49063
+
+Tax Id: 949-98-1765
+
+UM Net price Net worth VAT [%] Gross
+worth
+
+each 12,00 60,00 10% 66,00
+Net worth VAT Gross worth
+
+60,00 6,00 66,00
+
+$ 60,00 $ 6,00 $ 66,00

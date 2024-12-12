@@ -1,0 +1,82 @@
+Invoice no: 31991296
+
+Date of issue:
+
+Seller:
+
+Vazquez-Long
+5602 Ellis Court Suite 589
+Lake Jillhaven, NJ 11406
+
+Tax Id: 933-70-8890
+IBAN: GB39RDOA01620430982758
+
+ITEMS
+
+No. Description Qty
+
+12/13/2017
+
+Client:
+Willis-Cole
+
+63445 Campbell Gardens Suite 606
+
+West Elizabeth, NJ 91909
+
+Tax Id: 956-98-5003
+
+Dell Desktop Computer PC
+
+5,00
+
+Optiplex 790 Quad Core i5 8GB
+480GB SSD Windows 10 Wifi
+
+2. CAD Solidworks Video Photo 5,00
+Editing Workstation 64GB 8C
+Xeon Quadro Computer NVME
+
+3. STUDENT/WORK COMPUTER 3,00
+WORKSTATION WINDOWS 10
+PRO
+
+4. Intel Compute Stick PC (32GB, 2,00
+1.33GHz, 2GB) -
+BOXSTCK1A32WFC + Wireless
+Keyboard
+
+3. Dell Dimension 3000 Computer 3,00
+Pentium 4 2.80 Ghz with 2gb of
+ram
+
+6. Dell Desktop Computer Optiplex 3,00
+790 USFF Core i3 4GB 250GB
+HD Windows 10 Pro PC
+
+7. Gaming PC Desktop Computer 2,00
+RGB Intel i7, RTX 2060, 16GB
+RAM, 240GB SSD, 2TB HDD
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+UM Net price Net worth VAT [%] Gross
+worth
+
+each 144,99 724,95 10% 797,45
+each 520,00 2 600,00 10% 2 860,00
+each 100,00 300,00 10% 330,00
+each 29,99 59,98 10% 65,98
+each 80,00 240,00 10% 264,00
+each 99,95 299,85 10% 329,84
+each 903,80 1 807,60 10% 1 988,36
+Net worth VAT Gross worth
+
+6 032,38 603,24 6 635,62
+
+$ 6 032,38 $ 603,24 $ 6 635,62

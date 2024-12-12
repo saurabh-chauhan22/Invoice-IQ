@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 22655
+Date: Nov 17 2012
+Bill To: Ship To: ;
+. . . . Ship Mode: Second Class
+Valerie Takahito Handan, Hebei, China
+Balance Due: $6,590.50
+Item Quantity Rate Amount
+Hon Rocking Chair, Adjustable 7 $931.77 $6,522.39
+Chairs, Furniture, FUR-CH-4681
+Subtotal: $6,522.39
+Shipping: $68.11
+Total: $6,590.50
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-VT21 70027-41230

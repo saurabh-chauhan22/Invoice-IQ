@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+#10745
+Date: May 29 2012
+Bill To: Ship To:
+me pe a Ship Mode: First Class
+Toby Carlisle Talence, Aquitaine-
+Limousin-Poitou- Balance Due: $10,580.54
+Charentes, France
+Item Quantity Rate Amount
+Hon Computer Table, Adjustable Height 7 $2,228.64 $15,600.45
+Tables, Furniture, FUR-TA-4642
+Subtotal: $15,600.45
+Discount (35%) : $5,460.16
+Shipping: $440.25
+Total: $10,580.54
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IT-2012-TC2129545-41058

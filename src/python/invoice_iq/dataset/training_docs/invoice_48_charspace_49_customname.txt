@@ -1,0 +1,43 @@
+Invoice no: 22956537
+
+Date of issue:
+
+Seller:
+
+Lopez, Mitchell and Mccoy
+450 Elizabeth Mountain
+Bentonton, NJ 27666
+
+Tax Id: 916-80-5443
+IBAN: GB31DWSQ91368335778638
+
+ITEMS
+No. Description Qty
+1. miley cyrus Bubble Dress 1,00
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+11/11/2019
+
+Client:
+
+Mcdowell Ltd
+8965 Garcia Hollow
+South Robin, ID 53882
+
+Tax Id: 963-99-8147
+
+UM Net price Net worth VAT [%] Gross
+worth
+
+each 16,00 16,00 10% 17,60
+Net worth VAT Gross worth
+
+16,00 1,60 17,60
+
+$ 16,00 $ 1,60 $ 17,60

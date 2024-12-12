@@ -1,0 +1,31 @@
+Invoice no: 98914713
+
+Date of issue: 01/13/2012
+
+Seller: Client:
+
+Bell PLC Mathews Group
+
+89719 Dudley Squares Suite 254 278 Jones Roads Suite 372
+Lake Devon, CA 55408 New Kellystad, KS 06180
+Tax Id: 965-99-5985 Tax Id: 990-92-6635
+
+IBAN: GB69X0CZ99259366064912
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. MARIJUANA LEAF WINE STOPPER 1,00 each 7,20 7,20 10% 7,92
+2. Tiffany and Co Pair 2 Stemless 4,00 each 74,99 299,96 10% 329,96
+Wine Champagne Glasses
+Original Stickers NO BOX
+3. Wine Bottle Holder From Costa 2,00 each 5,00 10,00 10% 11,00
+Rica Has A Parrot Painted On It
+4. VTG (4) 7 Ounce Since 1852 3,00 each 14,00 42,00 10% 46,20
+Milk Bottle Wine Carafe Juice
+Glass with Cork Lids
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 359,16 35,92 395,08
+
+Total $ 359,16 $ 35,92 $ 395,08

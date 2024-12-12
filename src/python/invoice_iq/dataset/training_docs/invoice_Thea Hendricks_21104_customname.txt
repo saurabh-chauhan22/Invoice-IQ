@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+#21104
+Date: Jan 13 2013
+Bill To: Ship To: ;
+. ; Ship Mode: Second Class
+Thea Hendricks Kuching, Sarawak,
+Malaysia Balance Due: $2,845.85
+Item Quantity Rate Amount
+Motorola Audio Dock, VoIP 4 $693.84 $2,775.36
+Phones, Technology, TEC-PH-5248
+Subtotal: $2,775.36
+Shipping: $70.49
+Total: $2,845.85
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2013-TH21 10078-41287

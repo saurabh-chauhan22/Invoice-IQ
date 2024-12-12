@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 30585
+Date: Jan 31 2012
+Bill To: Ship To:
+me pe Ship Mode: Standard Class
+Troy Staebel Paraparaumu,
+Wellington, New Balance Due: $7,773.25
+Zealand
+Item Quantity Rate Amount
+Barricks Computer Table, Fully Assembled 4 $1,917.24 $7,668.96
+Tables, Furniture, FUR-TA-3341
+Subtotal: $7,668.96
+Shipping: $104.29
+Total: $7,773.25
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-TS2161092-40939

@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 22900
+Date: Apr 07 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Vivek Sundaresam Perth, Western
+Australia, Australia Balance Due: $7,074.70
+Item Quantity Rate Amount
+Hoover Refrigerator, Red 4 $1,894.54 $7,578.14
+Appliances, Office Supplies, OFF-AP-4736
+Subtotal: $7,578.14
+Discount (10%): $757.81
+Shipping: $254.37
+Total: $7,074.70
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-VS218207-41006

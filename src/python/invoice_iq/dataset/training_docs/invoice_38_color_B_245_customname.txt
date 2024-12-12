@@ -1,0 +1,22 @@
+Invoice no: 57443354
+
+Date of issue: 08/16/2013
+Seller: Client:
+Griffin-Williams Thompson, Ray and Lawrence
+31217 Santos Bypass 57655 Robert Stream
+West Andrew, IL 92753 Berryside, MD 69625
+Tax Id: 947-75-3403 Tax Id: 953-78-0173
+IBAN: GB96JJCP41911692988371
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. Custom Build HP Desktop 5,00 each 329,00 1 645,00 10% 1 809,50
+Computer 16GB | 2TB | SSD |
+Windows 10 Windows 7 PC WiFi
+2. hp all in one desktop computer 2,00 each 205,00 410,00 10% 451,00
+touch screen
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 2 055,00 205,50 2 260,50
+
+Total $ 2 055,00 $ 205,50 $ 2 260,50

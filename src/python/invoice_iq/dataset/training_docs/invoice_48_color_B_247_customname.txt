@@ -1,0 +1,35 @@
+Invoice no: 43066287
+
+Date of issue: 12/03/2011
+
+Seller: Client:
+
+Lewis-Meyer Williams, Rowland and Lee
+49838 Hall Knolls Suite 601 937 Smith Knoll
+
+Port Kevintown, OR 92546 North Sarahville, TN 07070
+Tax Id: 960-86-6054 Tax Id: 937-78-2740
+
+IBAN: GB80ACCM39187551419549
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. A New Earth: Awakening to Your 5,00 each 4,49 22,45 10% 24,70
+Lifes Purpose
+2. Jesus (Hardback or Cased Book) 5,00 each 31,96 159,80 10% 175,78
+3. National Geographic Bird 5,00 each 4,89 24,45 10% 26,90
+Watcher s Bible - A Complete
+Treasury
+4. Unleashed : The Story of Tool, 5,00 each 16,88 84,40 10% 92,84
+Paperback by Mclver, Joel,
+Brand New, Free shi...
+3. return to virgin river by robyn 4,00 each 2,99 11,96 10% 13,16
+carr
+6. The Fountainhead: 50th 3,00 each 4,49 13,47 10% 14,82
+Anniversary Edition
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 316,53 31,65 348,18
+
+Total $ 316,53 $ 31,65 $ 348,18

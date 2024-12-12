@@ -1,0 +1,27 @@
+SuperStore INVOICE
+
+# 23250
+Date: Nov 10 2012
+Bill To: Ship To: ; .
+. a . Ship Mode: First Class
+Theone Pippenger Ho Chi Minh City, Ho
+
+Chi Minh City, Balance Due: $6,084.97
+
+Vietnam
+Item Quantity Rate Amount
+Tenex File Cart, Single Width 8 $893.81 $7,150.48
+
+Storage, Office Supplies, OFF-ST-6248
+
+Subtotal: $7,150.48
+Discount (17%): $1,215.58
+Shipping: $150.07
+Total: $6,084.97
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-TP21130144-41223

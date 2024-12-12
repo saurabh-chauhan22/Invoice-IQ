@@ -1,0 +1,123 @@
+Invoice no: 58070353
+
+Date of issue:
+
+Seller:
+
+Dillon, Thornton and Stewart
+22691 Paul Isle Apt. 321
+North Rebecca, TN 58574
+
+Tax Id: 985-79-5788
+
+IBAN: GB57FJNG72696772432391
+
+ITEMS
+
+No. Description
+
+1. A History of Christianity Vol. 1 :
+Beginnings to 1500 by Kenneth
+S. Latourette
+
+2. Beloved by Toni Morrison
+
+3. The Epic of Gilgamesh
+
+4. Admission Assessment Exam
+Review 4th Edition by HESI
+(P.D.F)
+
+5. Against All Odds : The Untold
+
+Story of Canada's Unlikely
+Hockey Heroes
+
+SUMMARY
+
+Total
+
+Qty
+
+3,00
+
+5,00
+
+3,00
+
+1,00
+
+1,00
+
+VAT [%]
+
+10%
+
+02/14/2020
+
+UM
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+Client:
+
+Rodgers Inc
+USCGC Watts
+FPO AE 14711
+
+Tax Id: 951-98-2570
+
+Net price
+
+4,09
+
+4,49
+
+4,49
+
+2,50
+
+4,41
+
+Net worth
+55,10
+
+$ 55,10
+
+Net worth VAT [%]
+12,27 10%
+22,45 10%
+13,47 10%
+
+2,50 10%
+4,41 10%
+VAT
+5,51
+$ 5,51
+
+Gross
+worth
+
+13,50
+
+24,70
+
+14,82
+
+2,75
+
+4,85
+
+Gross worth
+
+60,61
+
+$ 60,61

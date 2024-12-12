@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 18758
+Date: Sep 18 2012
+Bill To: Ship To: ; .
+. Ship Mode: First Class
+Thomas Thornton Poissy, Ile-de-France,
+France Balance Due: $1,476.32
+Item Quantity Rate Amount
+Boston Canvas, Fluorescent 5 $274.50 $1,372.50
+Art, Office Supplies, OFF-AR-3527
+Subtotal: $1,372.50
+Shipping: $103.82
+Total: $1,476.32
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-TT2122045-41170

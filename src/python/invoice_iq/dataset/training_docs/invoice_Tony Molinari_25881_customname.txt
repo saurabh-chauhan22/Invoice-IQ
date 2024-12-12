@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 25881
+Date: Nov 17 2012
+Bill To: Ship To:
+ne . pie Ship Mode: First Class
+Tony Molinari Surabaya, Jawa
+Timur, Indonesia Balance Due: $4,368.45
+Item Quantity Rate Amount
+Novimex Swivel Stool, Black 7 $827.97 $5,795.81
+Chairs, Furniture, FUR-CH-5412
+Subtotal: $5,795.81
+Discount (27%): $1,564.87
+Shipping: $137.51
+Total: $4,368.45
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-TM2149059-41230

@@ -1,0 +1,50 @@
+Invoice no: 11239880
+
+Date of issue: 04/28/2014
+Seller: Client:
+Day-Horton Parrish-Smith
+
+45003 Madeline Place Suite 230
+Lake Anthony, WI 05349
+
+552 Jackson Plains Apt. 193
+Lake Danielshire, MO 15197
+
+Tax Id: 951-90-0895 Tax Id: 957-76-8871
+
+IBAN: GB75GEAX39972669798319
+
+ITEMS
+No. Description Qty UM Net price
+1. Beige Color Hand Knotted 2'x4' 3,00 each 170,00
+
+Afghan Kilim Rug Carpet
+Traditional Ghazni Floral
+
+SUMMARY
+
+VAT [%] Net worth
+10% 510,00
+
+Total $ 510,00
+
+Net worth VAT [%]
+
+510,00
+
+VAT
+51,00
+
+$ 51,00
+
+10%
+
+Gross
+worth
+
+561,00
+
+Gross worth
+561,00
+
+$ 561,00

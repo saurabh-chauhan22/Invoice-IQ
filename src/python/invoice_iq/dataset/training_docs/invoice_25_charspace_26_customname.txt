@@ -1,0 +1,106 @@
+Invoice no: 28262653
+
+Date of issue:
+
+Seller:
+
+Dillon and Sons
+334 Glover Bypass Apt. 044
+Coleburgh, UT 20395
+
+Tax Id: 942-71-3015
+
+IBAN: GB20YGZA73234571466661
+
+ITEMS
+
+No. Description
+
+1. Dell Desktop Computers []
+
+Core i5 16GB 2TB HD 512GB
+SSD {] Windows 10 PC 22" LCD
+
+2. Dell Desktop Computer Tower
+Core i3 8GB 500GB HD DVD Wifi
+
+Windows 10 PC
+
+3. HP Windows 10 Pro Desktop
+Computer Intel QUAD CORE i5
+
+Wifi, Keyboard & Mouse
+
+SUMMARY
+
+Total
+
+08/18/2011
+
+Qty UM
+
+3,00 each
+
+5,00 each
+
+4,00 each
+VAT [%]
+
+10%
+
+Client:
+Mendoza PLC
+
+74708 Valdez Gardens Apt. 469
+Isaacshire, OH 66425
+
+Tax Id: 925-95-8073
+
+Net price
+
+139,95
+
+114,95
+
+169,95
+
+Net worth
+1 674,40
+
+$ 1674,40
+
+Net worth
+
+419,85
+
+574,75
+
+679,80
+
+VAT [%]
+
+10%
+
+10%
+
+10%
+
+VAT
+
+167,44
+
+$ 167,44
+
+Gross
+worth
+
+461,83
+
+632,23
+
+747,78
+
+Gross worth
+1 841,84
+
+$1 841,84

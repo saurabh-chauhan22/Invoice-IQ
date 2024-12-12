@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+#5917
+Date: Nov 27 2012
+Bill To: Ship To: Ship Mod First Cl
+: rst Class
+Sung Chung Monclova, Coahuila, pion’
+Mexico Balance Due: $1,821.71
+Item Quantity Rate Amount
+Panasonic Printer, Durable 3 $533.22 $1,599.66
+Machines, Technology, TEC-MA-5571
+Subtotal: $1,599.66
+Shipping: $222.05
+Total: $1,821.71
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-SC2084582-41240

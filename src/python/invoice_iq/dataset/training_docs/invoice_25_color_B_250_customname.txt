@@ -1,0 +1,45 @@
+Invoice no: 33289699
+
+Date of issue:
+
+Seller:
+
+Hall-Martinez
+3197 Jillian Forks Suite 115
+Kimchester, HI 43821
+
+Tax Id: 941-80-9599
+IBAN: GB32HGAS20083011657056
+
+ITEMS
+No. Description Qty
+1. Nintendo GameCube Console 5,00
+DOL-001 Black w/ Controller,
+Power, A/V,
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+12/24/2012
+
+Client:
+
+Haynes-Woods
+USNV Gilbert
+FPO AP 32645
+
+Tax Id: 953-82-2864
+
+UM Net price Net worth VAT [%] Gross
+worth
+
+each 79,99 399,95 10% 439,95
+Net worth VAT Gross worth
+
+399,95 40,00 439,95
+
+$ 399,95 $ 40,00 $ 439,95

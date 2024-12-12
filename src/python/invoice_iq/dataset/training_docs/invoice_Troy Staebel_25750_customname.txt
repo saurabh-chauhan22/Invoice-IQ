@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 25750
+Date: Dec 07 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Troy Staebel Sydney, New South
+Wales, Australia Balance Due: $4,229.80
+Item Quantity Rate Amount
+Brother Personal Copier, Digital 6 $769.66 $4,617.97
+Copiers, Technology, TEC-CO-3605
+Subtotal: $4,617.97
+Discount (10%) : $461.80
+Shipping: $73.63
+Total: $4,229.80
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-TS216107-41250

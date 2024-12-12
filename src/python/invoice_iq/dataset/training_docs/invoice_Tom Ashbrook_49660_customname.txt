@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 49660
+Date: Feb 21 2013
+Bill To: Ship To: Ship Mode: Standard Cl
+Tom Ashbrook Silivri, Istanbul, pimioces angara wiass
+Turkey Balance Due: $5,640.75
+Item Quantity Rate Amount
+Office Star Swivel Stool, Adjustable 14 $988.01 $13,832.11
+Chairs, Furniture, FUR-CH-5454
+Subtotal: $13,832.11
+Discount (60%) : $8,299.27
+Shipping: $107.91
+Total: $5,640.75
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : TU-2013-TA11385134-41326

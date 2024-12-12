@@ -1,0 +1,47 @@
+Invoice no: 10256762
+
+Date of issue:
+
+Seller:
+
+Moody Group
+473 Susan Landing Suite 904
+East Alexander, WA 68206
+
+Tax Id: 966-92-3423
+IBAN: GB32Z0IM78362379306028
+
+ITEMS
+No. Description Qty
+1. 4 Tupperware Wine Stemless 1,00
+
+Cups Set Acrylic Plastic Shatter
+Proof Beverages New
+
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+11/17/2016
+
+Client:
+
+Lowe-Anderson
+700 Bush Ramp
+Lake Amberside, MO 48981
+
+Tax Id: 984-72-2644
+
+UM Net price Net worth VAT [%] Gross
+worth
+
+each 34,99 34,99 10% 38,49
+Net worth VAT Gross worth
+
+34,99 3,50 38,49
+
+$ 34,99 $ 3,50 $ 38,49

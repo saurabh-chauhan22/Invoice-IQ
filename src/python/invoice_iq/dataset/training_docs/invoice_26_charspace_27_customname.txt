@@ -1,0 +1,43 @@
+Invoice no: 40617776
+
+Date of issue:
+
+Seller:
+
+Duncan-Sellers
+087 Moore Villages
+Garzatown, NJ 13842
+
+Tax Id: 931-88-8734
+
+IBAN: GB44QSB033547415900404
+
+ITEMS
+
+No. Description
+
+1. Jordan Nike Kid Air 1 Retro High
+Black Gray Elephant Size 7Y
+838850-013
+
+SUMMARY
+Total
+
+11/27/2019
+
+Client:
+
+Carr, Weaver and Andrews
+5483 Fernandez Spur Suite 575
+Barbarachester, IL 48942
+
+Tax Id: 992-84-9852
+
+Qty UM Net price Net worth VAT [%] Gross
+worth
+
+3,00 each 50,00 150,00 10% 165,00
+VAT [%] Net worth VAT Gross worth
+10% 150,00 15,00 165,00
+
+$ 150,00 $ 15,00 $ 165,00

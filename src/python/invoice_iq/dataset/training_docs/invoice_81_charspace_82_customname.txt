@@ -1,0 +1,44 @@
+Invoice no: 61086942
+
+Date of issue:
+
+Seller:
+
+Huffman, Brown and Welch
+USNV Gregory
+FPO AA 27705
+
+Tax Id: 957-78-2538
+
+IBAN: GB50RQYA64357189340854
+
+ITEMS
+
+No. Description
+
+1. YILONG 2.5'x4' Small
+Handknotted Silk Classic Carpet
+Home Decor Area Rug LH942B
+
+SUMMARY
+
+Total
+
+12/03/2018
+
+Client:
+
+Chambers PLC
+131 Watson Spurs
+Michaelside, AK 01579
+
+Tax Id: 924-83-1534
+
+Qty UM Net price Net worth VAT [%] Gross
+worth
+
+1,00 each 2 000,00 2 000,00 10% 2 200,00
+VAT [%] Net worth VAT Gross worth
+10% 2 000,00 200,00 2 200,00
+
+$ 2 000,00 $ 200,00 $ 2 200,00

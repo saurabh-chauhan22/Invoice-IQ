@@ -1,0 +1,55 @@
+Invoice no: 28428192
+
+Date of issue: 07/16/2015
+Seller: Client:
+Gray-Dean
+
+56252 Roger Heights Suite 697
+Lake Rodneyville, CT 20105
+
+Tax Id: 932-98-4997
+IBAN: GB580RZH78424092129558
+
+ITEMS
+No. Description Qty UM
+1. 27 Inches Black Marble Coffee 5,00 each
+Table Top Round Home Sofa
+Table with Marquetry Art
+2. Marquetry Art Marble Inlay 1,00 each
+
+Table Top Octagon Dinning
+Table Home Assent 48 Inches
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+Mills, Campos and Freeman
+8149 Jackson Springs
+Port Matthewport, NM 72764
+
+Tax Id: 947-81-0049
+
+Net price Net worth VAT [%]
+
+596,25 2 981,25 10%
+
+2 860,00 2 860,00 10%
+Net worth VAT
+5 841,25 584,12
+$5 841,25 $ 584,12
+
+Gross
+worth
+
+3 279,37
+
+3 146,00
+
+Gross worth
+6 425,37
+
+$ 6 425,37

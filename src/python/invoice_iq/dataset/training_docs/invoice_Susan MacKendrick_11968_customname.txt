@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 11968
+Date: Jan 08 2013
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Susan MacKendrick Cologne, North
+Rhine-Westphalia, Balance Due: $2,851.16
+Germany
+Item Quantity Rate Amount
+Epson Inkjet, Durable 3 $919.89 $2,759.67
+Machines, Technology, TEC-MA-4197
+Subtotal: $2,759.67
+Shipping: $91.49
+Total: $2,851.16
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2013-SM2090548-41 282

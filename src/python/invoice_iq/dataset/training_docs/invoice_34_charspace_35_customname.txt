@@ -1,0 +1,98 @@
+Invoice no: 38999874
+
+Date of issue:
+
+Seller:
+
+Farmer-Stone
+7511 Steven Island
+South Melissa, VT 92109
+
+Tax Id: 982-71-0802
+IBAN: GB36UUZL61571630236366
+
+ITEMS
+
+No. Description
+
+1. Leidenfcost Vineyards
+Stemware Wine Glass
+
+2. Uncork New York rolling
+vineryards Wine glass set of 2
+
+3. Stemless wine glass Etched
+coordinates of Myakka River
+State Park, Very Good
+
+SUMMARY
+
+Total
+
+08/20/2020
+
+Qty UM
+3,00 each
+5,00 each
+5,00 each
+
+VAT [%]
+
+10%
+
+Client:
+
+Griffin-Parker
+USCGC Curtis
+FPO AE 20232
+
+Tax Id: 977-95-7466
+
+Net price
+
+3,99
+
+5,99
+
+2,99
+
+Net worth
+56,87
+
+$ 56,87
+
+Net worth
+
+11,97
+
+29,95
+
+14,95
+
+VAT [%]
+
+10%
+
+10%
+
+10%
+
+VAT
+
+5,69
+
+$ 5,69
+
+Gross
+worth
+
+13,17
+
+32,95
+
+16,45
+
+Gross worth
+62,56
+
+$ 62,56

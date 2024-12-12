@@ -1,0 +1,113 @@
+Invoice no: 93132815
+
+Date of issue:
+
+Seller:
+
+Lucas-Lewis
+0439 Thomas Valleys Apt. 212
+Morrismouth, DE 60120
+
+Tax Id: 994-76-2516
+IBAN: GB86ZU0D03559216642476
+
+ITEMS
+
+No. Description
+
+1. Nintendo Wii U WUP-101(02)
+32GB Console - Black - US
+Model
+
+2. Video Classic Game Console
+2GB 1094 Games 3" HD Screen
+FC3000 Handheld Black
+
+3. Nintendo Switch Lite Gray
+
+CONSOLE ONLY - No
+Accessories or Charger [B4-4]
+
+SUMMARY
+
+Total
+
+Qty
+
+1,00
+
+2,00
+
+1,00
+
+VAT [%]
+
+10%
+
+09/07/2019
+
+UM
+
+each
+
+each
+
+each
+
+Client:
+
+Price-Bennett
+
+4280 Mcpherson Spur
+Phillipview, RI 41063
+
+Tax Id: 965-88-2883
+
+Net price
+
+40,00
+
+25,99
+
+135,00
+
+Net worth
+226,98
+
+$ 226,98
+
+Net worth
+
+40,00
+
+51,98
+
+135,00
+
+VAT [%]
+
+10%
+
+10%
+
+10%
+
+VAT
+
+22,70
+
+$ 22,70
+
+Gross
+worth
+
+44,00
+
+57,18
+
+148,50
+
+Gross worth
+249,68
+
+$ 249,68

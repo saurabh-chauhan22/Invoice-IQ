@@ -1,0 +1,33 @@
+Invoice no: 30933703
+
+Date of issue: 03/08/2019
+
+Seller: Client:
+
+Wood, Simmons and Schwartz
+654 Mayer Forges
+Port Jonathanmouth, NV 82753
+
+Villa, Davis and Middleton
+5868 Jeffery Meadows
+Shawtown, SC 41980
+
+Tax Id: 955-98-5937
+
+Tax Id: 961-95-6215
+IBAN: GB630SSA96049791516981
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. Art History Portables Book 6 by 1,00 each 26,00 26,00 10% 28,60
+Michael W. Cothren and Marilyn
+Stokstad 5th edtn
+2. the invisible life of addie larue, 5,00 each 2,99 14,95 10% 16,45
+EBOOK new original high
+quality, updated 2020
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 40,95 4,10 45,05
+
+Total $ 40,95 $ 4,10 $ 45,05

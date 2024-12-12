@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 31061
+Date: Nov 30 2012
+Bill To: Ship To: ;
+| Ship Mode: Standard Class
+Yoseph Carroll Manukau City,
+Auckland, New Balance Due: $2,921.43
+Zealand
+Item Quantity Rate Amount
+Bevis Computer Table, Adjustable Height 4 $1,181.02 $4,724.06
+Tables, Furniture, FUR-TA-3417
+Subtotal: $4,724.06
+Discount (40%) : $1,889.62
+Shipping: $86.99
+Total: $2,921.43
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-YC2189592-41243

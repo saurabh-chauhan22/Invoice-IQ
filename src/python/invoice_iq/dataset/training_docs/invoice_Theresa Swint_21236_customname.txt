@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 21236
+Date: Oct 25 2012
+Bill To: Ship To: ;
+. . . Ship Mode: Standard Class
+Theresa Swint Manila, National
+Capital, Philippines Balance Due: $4,360.91
+Item Quantity Rate Amount
+Office Star Executive Leather Armchair, Black 4 $1,402.29 $5,609.16
+Chairs, Furniture, FUR-CH-5442
+Subtotal: $5,609.16
+Discount (25%) : $1,402.29
+Shipping: $154.04
+Total: $4,360.91
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-TS21160102-41207

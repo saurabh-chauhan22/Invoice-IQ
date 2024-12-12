@@ -1,0 +1,49 @@
+Invoice no: 64517517
+
+Date of issue: 08/22/2018
+
+Seller: Client:
+
+Bullock, Williams and Stanley Paul, Taylor and Stewart
+346 Kyle Ferry Suite 361 PSC 2163, Box 8990
+East Ashleyburgh, AK 53876 APO AA 23149
+
+Tax Id: 939-78-7214 Tax Id: 916-71-1039
+
+IBAN: GB34WWDD32605462007665
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%]
+1. Nintendo 64 Console W/ Oem 1,00 each 120,00 120,00 10%
+Controller Ice Blue, Expansion
+Pack
+2. "New" Nintendo 3DS XL New 1,00 each 124,99 124,99 10%
+Black Handheld Console
+(RED-001) w/ Charger & Stylus
+3. Nintendo Wii Teal Blue Limited 1,00 each 114,99 114,99 10%
+Edition Console with Mario Kart -
+MINT TESTED
+4. SONY Playstation2 Slim Console 5,00 each 90,00 450,00 10%
+set " SCPH-90000 / White "/
+TESTED Working 11192
+SUMMARY
+VAT [%] Net worth VAT
+10% 809,98 81,00
+
+Total $ 809,98 $ 81,00
+
+Gross
+worth
+
+132,00
+
+137,49
+
+126,49
+
+495,00
+
+Gross worth
+890,98
+
+$ 890,98

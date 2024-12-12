@@ -1,0 +1,47 @@
+Invoice no: 35603644
+
+Date of issue:
+
+Seller:
+
+Mejia Ltd
+1371 Cisneros Underpass Apt. 721
+West Shaunchester, DE 93525
+
+Tax Id: 949-86-1268
+IBAN: GB86STWL97507319357665
+
+ITEMS
+No. Description Qty
+1. Chic Star Retro Mary 4,00
+
+Hildebrandt Frock Dress Plus
+Size 24 Red Cotton 3X
+
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+04/09/2013
+
+Client:
+
+Bailey-Young
+034 Martin Rue
+North Joseph, CA 66354
+
+Tax Id: 912-76-4111
+
+UM Net price Net worth VAT [%] Gross
+worth
+
+each 12,99 51,96 10% 57,16
+Net worth VAT Gross worth
+
+51,96 5,20 57,16
+
+$ 51,96 $ 5,20 $ 57,16

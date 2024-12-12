@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 13130
+Date: Feb 29 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Todd Sumrall Farnborough,
+England, United Balance Due: $4,093.75
+Kingdom
+Item Quantity Rate Amount
+Safco Classic Bookcase, Traditional 3 $1,314.45 $3,943.35
+Bookcases, Furniture, FUR-BO-5763
+Subtotal: $3,943.35
+Shipping: $150.40
+Total: $4,093.75
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-TS21370139-40968

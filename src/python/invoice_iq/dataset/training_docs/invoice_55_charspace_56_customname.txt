@@ -1,0 +1,130 @@
+Invoice no: 95789569
+
+Date of issue:
+
+Seller:
+
+Duran Group
+634 Lopez Trail Suite 793
+Rogermouth, TX 31772
+
+Tax Id: 921-86-2243
+IBAN: GB42KU0A83421214820838
+
+ITEMS
+No. Description Qty
+1. Elisa Cavaletti Daniela 1,00
+Dallavalle Shift Dress Grey And
+White .Size M
+2. S.L. Fashions Size 16 Stretch 1,00
+
+Bodice Dress
+
+3. Lumiere Large Multicolored 5,00
+Orange Short Dress NWT
+
+4. Women Spaghetti Strap 5,00
+Bodycon Mini Dress Sexy Party
+Club Wear Summer Short Dress
+
+3. Lilly Pulitzer 8 Sunkissed with 4,00
+Glow Janice Shift Dress
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+08/15/2017
+
+UM
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+Client:
+
+Wilson-Johnson
+
+39149 Johnson Station
+
+Howardland, UT
+
+75242
+
+Tax Id: 946-98-3414
+
+Net price
+
+60,00
+
+15,50
+
+4,99
+
+4,47
+
+56,89
+
+Net worth
+350,36
+
+$ 350,36
+
+Net worth
+
+60,00
+
+15,50
+
+24,95
+
+22,35
+
+227,56
+
+VAT [%]
+
+10%
+
+10%
+
+10%
+
+10%
+
+10%
+
+VAT
+
+35,04
+
+$ 35,04
+
+Gross
+worth
+
+66,00
+
+17,05
+
+27,45
+
+24,58
+
+250,32
+
+Gross worth
+
+385,40
+
+$ 385,40

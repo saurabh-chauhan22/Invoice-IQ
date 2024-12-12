@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 13223
+Date: Mar 23 2012
+Bill To: Ship To: ; .
+Ship Mode: First Class
+Tamara Willingham Carcassonne,
+Languedoc: Balance Due: $4,173.35
+Roussillon-Midi-
+Pyrénées, France
+Item Quantity Rate Amount
+Avery Binding Machine, Durable 9 $453.06 $4,077.54
+Binders, Office Supplies, OFF-BI-3256
+Subtotal: $4,077.54
+Shipping: $95.81
+Total: $4,173.35
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-TW2102545-40991

@@ -1,0 +1,45 @@
+Invoice no: 20369343
+
+Date of issue:
+
+Seller:
+
+Richards-Alexander
+0313 Montgomery Mill
+Lake Amber, NM 64907
+
+Tax Id: 985-92-0137
+IBAN: GB10WQSV20535335597484
+
+ITEMS
+No. Description Qty
+1. Max Studio Womens Black 2,00
+Sleeveless Floral Casual Dress
+Medium
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+02/19/2021
+
+Client:
+
+Rhodes-Wright
+USCGC Mcdaniel
+FPO AA 10058
+
+Tax Id: 934-82-2398
+
+UM Net price Net worth VAT [%] Gross
+worth
+
+each 15,99 31,98 10% 35,18
+Net worth VAT Gross worth
+
+31,98 3,20 35,18
+
+$ 31,98 $ 3,20 $ 35,18

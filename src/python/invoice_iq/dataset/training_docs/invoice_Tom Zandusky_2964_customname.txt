@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 2964
+Date: May 17 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Tom Zandusky Santo Domingo,
+Santo Domingo, Balance Due: $1,741.99
+Dominican Republic
+Item Quantity Rate Amount
+Sauder Classic Bookcase, Traditional 4 $697.58 $2,790.34
+Bookcases, Furniture, FUR-BO-5951
+Subtotal: $2,790.34
+Discount (40%) : $1,116.14
+Shipping: $67.79
+Total: $1,741.99
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-TZ2144536-41046

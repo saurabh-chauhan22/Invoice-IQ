@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 4902
+Date: Jan 20 2012
+
+Bill To: Ship To: Ship Mod s D
+
+: ame Da
+Suzanne McNair Chilpancingo, pamoce y
+Guerrero, Mexico Balance Due: $827.23
+Item Quantity Rate Amount
+Cuisinart Microwave, Silver 2 $372.28 $744.56
+Appliances, Office Supplies, OFF-AP-3866
+
+Subtotal: $744.56
+Shipping: $82.67
+Total: $827.23
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-SM2095082-40928

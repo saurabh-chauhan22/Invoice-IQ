@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 23252
+Date: Nov 10 2012
+Bill To: Ship To: Ship Mod First Cl
+: rst Class
+Theone Pippenger Ho Chi Minh City, Ho pion’
+Chi Minh City, Balance Due: $773.98
+Vietnam
+Item Quantity Rate Amount
+Logitech Router, Bluetooth 3 $393.24 $1,179.72
+Accessories, Technology, TEC-AC-5134
+Subtotal: $1,179.72
+Discount (47%) : $554.47
+Shipping: $148.73
+Total: $773.98
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-TP21130144-41223

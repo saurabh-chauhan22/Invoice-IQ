@@ -1,0 +1,30 @@
+Invoice no: 21085491
+
+Date of issue: 04/14/2019
+
+Seller: Client:
+
+Walker and Sons Price PLC
+
+Unit 2971 Box 7332 741 Anna Light Apt. 368
+DPO AA 41376 Lake Carrieville, OK 62428
+Tax Id: 932-80-0773 Tax Id: 991-96-0218
+
+IBAN: GB18HQ0063322747337233
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. HP Desktop Computer 400 G1 5,00 each 139,95 699,75 10% 769,73
+Core i3 3.4GHz 8GB 256GB SSD
+19" LCD Windows 10 PC
+2. Dell Desktop Computers [J] 5,00 each 129,95 649,75 10% 714,73
+Core i5 16GB 2TB HD 512GB
+SSD J Windows 10 PC 22" LCD
+3. Ryzen Gaming Computer 3,00 each 752,00 2 256,00 10% 2 481,60
+4. Custom Built Gaming Computer 4,00 each 217,50 870,00 10% 957,00
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 4 475,50 447,55 4 923,05
+
+Total $ 4 475,50 $ 447,55 $ 4 923,05

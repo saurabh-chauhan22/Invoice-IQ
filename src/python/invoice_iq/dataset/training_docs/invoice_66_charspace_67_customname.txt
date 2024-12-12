@@ -1,0 +1,31 @@
+Invoice no: 84605885
+
+Date of issue: 07/01/2018
+
+Seller: Client:
+
+Garcia, Ochoa and Allen Dawson-Hooper
+10661 Reynolds Square Apt. 445 PSC 3589, Box 2247
+West Patricia, ID 94042 APO AE 03266
+
+Tax Id: 910-71-3492 Tax Id: 987-98-4910
+
+IBAN: GB71AKFD46626759825974
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. Microsoft Xbox Series X 1TB 2,00 each 729,98 1 459,96 10% 1 605,96
+Video Game Console - Black,
+Preorder Confirm PRESALE
+2. Sony Playstation 3 PS3 Slim 5,00 each 119,00 595,00 10% 654,50
+320GB Console w/games & Cord
+CECH-3001B -TESTED
+3. Nintendo Famicom (NES) 3,00 each 39,99 119,97 10% 131,97
+HVC-001 Console Only Tested
+Work JAPAN
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 2 174,93 217,49 2 392,42
+
+Total $2 174,93 $ 217,49 $ 2 392,42

@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 15218
+Date: Feb 29 2012
+Bill To: Ship To: ;
+; | Ship Mode: Standard Class
+Tom Boeckenhauer Berlin, Berlin,
+Germany Balance Due: $2,412.93
+Item Quantity Rate Amount
+Hamilton Beach Toaster, Black 8 $364.42 $2,915.33
+Appliances, Office Supplies, OFF-AP-4509
+Subtotal: $2,915.33
+Discount (20%) : $583.07
+Shipping: $80.67
+Total: $2,412.93
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-TB2140048-40968

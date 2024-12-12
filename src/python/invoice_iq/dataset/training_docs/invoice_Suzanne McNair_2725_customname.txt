@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 2725
+Date: Nov 16 2012
+Bill To: Ship To: Ship Mod First Cl
+: rst Class
+Suzanne McNair Sao Paulo, Sao poe’
+Paulo, Brazil Balance Due: $1,685.42
+Item Quantity Rate Amount
+Brother Copy Machine, Color 3 $526.41 $1,579.22
+Copiers, Technology, TEC-CO-3587
+Subtotal: $1,579.22
+Discount (0.2%): $3.16
+Shipping: $109.36
+Total: $1,685.42
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-SM2095018-41229

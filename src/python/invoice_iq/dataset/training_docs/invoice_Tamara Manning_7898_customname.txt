@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 7898
+Date: Dec 14 2012
+Bill To: Ship To: ;
+| . Ship Mode: Standard Class
+Tamara Manning Querétaro,
+Querétaro, Mexico Balance Due: $6,532.95
+Item Quantity Rate Amount
+Eldon Lockers, Blue 7 $923.58 $6,465.06
+Storage, Office Supplies, OFF-ST-4078
+Subtotal: $6,465.06
+Shipping: $67.89
+Total: $6,532.95
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-TM2101082-41257

@@ -1,0 +1,24 @@
+SuperStore INVOICE
+
+# 13221
+Date: Mar 23 2012
+Bill To: Ship To:
+ne pe Ship Mode: First Class
+Tamara Willingham Carcassonne,
+Languedoc: Balance Due: $508.34
+Roussillon-Midi-
+Pyrénées, France
+Item Quantity Rate Amount
+Motorola Signal Booster, Full Size 2 $245.51 $491.03
+Phones, Technology, TEC-PH-5264
+Subtotal: $491.03
+Discount (15%) : $73.65
+Shipping: $90.96
+Total: $508.34
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-TW2102545-40991

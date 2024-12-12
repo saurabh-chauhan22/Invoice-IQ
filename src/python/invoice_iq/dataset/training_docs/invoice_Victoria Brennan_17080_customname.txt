@@ -1,0 +1,24 @@
+SuperStore INVOICE
+
+# 17080
+Date: Nov 29 2012
+
+Bill To: Ship To: Ship Mode: First Cl
+Victoria Brennan Paris, Ile-de-France, p Mocs: St UIass
+France Balance Due: $6,922.52
+Item Quantity Rate Amount
+Harbour Creations Chairmat, Black 11 $688.74 $7,576.17
+
+Chairs, Furniture, FUR-CH-4523
+
+Subtotal: $7,576.17
+Discount (10%): $757.62
+Shipping: $103.97
+Total: $6,922.52
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-VB2174545-41242

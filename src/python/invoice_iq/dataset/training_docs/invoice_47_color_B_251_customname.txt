@@ -1,0 +1,20 @@
+Invoice no: 91817064
+
+Date of issue: 12/26/2016
+Seller: Client:
+Maldonado Inc Walton, Smith and Vasquez
+98873 Lang Mountain 44125 Tyler Lodge
+South David, MA 37612 New Heather, VA 37861
+Tax Id: 901-78-9443 Tax Id: 997-78-2441
+IBAN: GB67IEHI18809591004895
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. Eat and Stay Slim 4,00 each 4,49 17,96 10% 19,76
+2. The Heretic's Daughter by 2,00 each 3,99 7,98 10% 8,78
+Kathleen Kent
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 25,94 2,59 28,53
+
+Total $ 25,94 $ 2,59 $ 28,53
